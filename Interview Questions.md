@@ -20,6 +20,8 @@
 6. Why do we care about immutability and mutability?
 7. What is Yield and how does it work?
 8. What is concurrency and describe a time when you've used it.
+9. Whats the time complexity of the solution ?
+10.  Can you improve the time complexity of your solution ?
 
 
 ### Machine Learning
@@ -42,6 +44,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTE2MzgwNjYsLTExMTY1MTU0MjZdfQ
-==
+eyJoaXN0b3J5IjpbLTY1Nzc3MzI4LC0xODUxNjM4MDY2LC0xMT
+E2NTE1NDI2XX0=
 -->
