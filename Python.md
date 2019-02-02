@@ -10,9 +10,10 @@
 * runtime (of algorithm)- function of the size of the input
 * Time Complexity is  the rate of growth of run time or how fast fuction grows with the input size
 
-**Asymptopic notation**
-* What is used to denote the time complexity
-* (3 Forms: Big-O, Big-Θ , Big Ω
+**Asymptopic Notation or Analysis**
+* Allows us to explain how an algorithm behaves as the input grows larger
+* *
+* 3 Forms: Big-O, Big-Θ , Big Ω
 
 | Big Ω (Big-Omega) | Big-Θ (Big-Theta) | Big-O  |
 |-------------------|----------------|-----------------------|
@@ -43,7 +44,7 @@ Note: the specifics (processor, memory, 32/64 bit) of the machine are not consid
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDUzODM3MDksMTU0MDAwMDY4NSwxMz
-kyMzQwOTk1LDIxMjA2MzUzNjYsLTE1MTM4NDUyMDIsMTgwNDU0
-NDI3N119
+eyJoaXN0b3J5IjpbLTE0NDE4NTExOTEsLTIwMDUzODM3MDksMT
+U0MDAwMDY4NSwxMzkyMzQwOTk1LDIxMjA2MzUzNjYsLTE1MTM4
+NDUyMDIsMTgwNDU0NDI3N119
 -->
