@@ -37,7 +37,7 @@ Example: O(n<sup>2</sup>) > O(n)
 Note: the specifics (processor, memory, 32/64 bit) of the machine are not considered
 
 #### Order of Complexity
-![Order of Complexity](https://photos.app.goo.gl/Cz5trQN5iHiCPpho7)
+![Complexity Graph](dsml-study-guide/images/Complexity%20Graph.png)
 
 
 **Resources**
@@ -49,7 +49,7 @@ Note: the specifics (processor, memory, 32/64 bit) of the machine are not consid
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzA5NTM0NDQsLTIwMDUzODM3MDksMT
-U0MDAwMDY4NSwxMzkyMzQwOTk1LDIxMjA2MzUzNjYsLTE1MTM4
-NDUyMDIsMTgwNDU0NDI3N119
+eyJoaXN0b3J5IjpbMTI2NzgyMzg0MywtMTI3MDk1MzQ0NCwtMj
+AwNTM4MzcwOSwxNTQwMDAwNjg1LDEzOTIzNDA5OTUsMjEyMDYz
+NTM2NiwtMTUxMzg0NTIwMiwxODA0NTQ0Mjc3XX0=
 -->
