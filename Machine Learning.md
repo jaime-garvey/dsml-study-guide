@@ -7,12 +7,12 @@
 
 
 ### Types of Machine Learning**
-|  Types        |  Description      |
-|---------------|------------------|
-|Supervised |    |
-|Unsupervised    | -unlabed data             |
-
-
+|  Types         |  Description      |
+|----------------|------------------|
+|Supervised      |-labed data      |
+|Unsupervised    | -unlabed data   |
+|Semi-Supervised |                 |
+  
 ## Theory
 
 ### Regression versus Classification
@@ -22,5 +22,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2OTc1MjM4MiwzMzE1NTg2OTZdfQ==
+eyJoaXN0b3J5IjpbNjM5NzY5NzY3LDMzMTU1ODY5Nl19
 -->
