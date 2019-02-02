@@ -18,11 +18,11 @@
 
 | Big Ω (Big-Omega) | Big-Θ (Big-Theta) | Big-O  |
 |-------------------|----------------|-----------------------|
-|lower bound (or best case senario)  |count only large values of n |Upper bound (or worst case senario)  |
+|lower bound (or best case senario)  |average case scenario |Upper bound (or worst case senario)  |
 |![Big Omega](https://photos.app.goo.gl/vGpbwZHxWkUbbYydA)	|![Big Theta](https://photos.app.goo.gl/p6ZwQAKqDHGL99hN6)	|![Big-O](https://photos.app.goo.gl/6SU2ERVj1x9eAxNo8)	|
 
 
-**Big O (Calculation)** 
+**R** 
 (how long algorithm takes in terms of the size of it's input (time))
 1. Different steps get added - Running time is the sumation of all fragments
 2. Drop constants 
@@ -45,7 +45,7 @@ Note: the specifics (processor, memory, 32/64 bit) of the machine are not consid
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTgyMzIyNzEsLTIwMDUzODM3MDksMT
+eyJoaXN0b3J5IjpbLTE0MjA2MTI1OTYsLTIwMDUzODM3MDksMT
 U0MDAwMDY4NSwxMzkyMzQwOTk1LDIxMjA2MzUzNjYsLTE1MTM4
 NDUyMDIsMTgwNDU0NDI3N119
 -->
