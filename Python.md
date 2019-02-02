@@ -22,7 +22,7 @@
 
 **Big O (Calculation)** 
 (how long algorithm takes in terms of the size of it's input (time))
-1. different steps get added
+1. different steps get added - Running time is the sumation of all fragments
 2. drop constants 
 3.  Different inputs => diffferent variables 
 ![Example of Naming Variables for Big O](https://photos.google.com/album/AF1QipPfjm3PHBCiN_eT1T8CAOtzKh6txR99WmTXPr93/photo/AF1QipO6ti8ZlIrT-mqBlEtWesSHBGwYwH0puYWkqJxw)
@@ -32,6 +32,7 @@ Example: O(n<sup>2</sup>) > O(n)
 Note: the specifics (processor, memory, 32/64 bit) of the machine are not considered
 
 **Order of Complexity**
+![enter image description here](https://photos.app.goo.gl/Cz5trQN5iHiCPpho7)
 
 **Resources**
  [Big O Explained](https://www.youtube.com/watch?v=v4cd1O4zkGw)
@@ -39,7 +40,7 @@ Note: the specifics (processor, memory, 32/64 bit) of the machine are not consid
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNTk1MTI3OSwxNTQwMDAwNjg1LDEzOT
+eyJoaXN0b3J5IjpbMTI1NTU1NTkzMCwxNTQwMDAwNjg1LDEzOT
 IzNDA5OTUsMjEyMDYzNTM2NiwtMTUxMzg0NTIwMiwxODA0NTQ0
 Mjc3XX0=
 -->
