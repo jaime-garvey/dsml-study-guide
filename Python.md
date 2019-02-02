@@ -32,7 +32,7 @@ Example: O(n<sup>2</sup>) > O(n)
 Note: the specifics (processor, memory, 32/64 bit) of the machine are not considered
 
 **Order of Complexity**
-![enter image description here](https://photos.app.goo.gl/Cz5trQN5iHiCPpho7)
+![Order of Complexity](https://photos.app.goo.gl/Cz5trQN5iHiCPpho7)
 
 #### Space Complexity
 * Measure of how efficient your code is in terms of memory used
@@ -43,7 +43,7 @@ Note: the specifics (processor, memory, 32/64 bit) of the machine are not consid
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU4NDAyNjcsMTU0MDAwMDY4NSwxMzkyMz
-QwOTk1LDIxMjA2MzUzNjYsLTE1MTM4NDUyMDIsMTgwNDU0NDI3
-N119
+eyJoaXN0b3J5IjpbLTIwMDUzODM3MDksMTU0MDAwMDY4NSwxMz
+kyMzQwOTk1LDIxMjA2MzUzNjYsLTE1MTM4NDUyMDIsMTgwNDU0
+NDI3N119
 -->
