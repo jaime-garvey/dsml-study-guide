@@ -1,12 +1,12 @@
 # Python
 
-## Table of Contents
+# Table of Contents
 * [Complexity](complexity)
 
 
-### Complexity
+## Complexity
 
-#### Asymptopic Notation or Analysis
+### Asymptopic Notation or Analysis
 * Allows us to explain how an algorithm behaves as the input grows larger
 * Two Parameters:
 	* Time Complexity - How long an algorithm takes to run depending on it's input size (CPU or computing power)
@@ -14,7 +14,7 @@
 * 3 Forms: Big-O, Big-Θ , Big Ω
 
 
-##### Time Complexity
+#### Notation
 
 | Big Ω (Big-Omega) | Big-Θ (Big-Theta) | Big-O  |
 |-------------------|----------------|-----------------------|
@@ -22,7 +22,7 @@
 |![Big Omega](https://photos.app.goo.gl/vGpbwZHxWkUbbYydA)	|![Big Theta](https://photos.app.goo.gl/p6ZwQAKqDHGL99hN6)	|![Big-O](https://photos.app.goo.gl/6SU2ERVj1x9eAxNo8)	|
 
 
-**R** 
+#### Calculating Complexity
 (how long algorithm takes in terms of the size of it's input (time))
 1. Different steps get added - Running time is the sumation of all fragments
 2. Drop constants 
@@ -33,11 +33,9 @@ Example: O(n<sup>2</sup>) > O(n)
 
 Note: the specifics (processor, memory, 32/64 bit) of the machine are not considered
 
-**Order of Complexity**
+#### Order of Complexity
 ![Order of Complexity](https://photos.app.goo.gl/Cz5trQN5iHiCPpho7)
 
-#### Space Complexity
-* Measure of how efficient your code is in terms of memory used
 
 **Resources**
  [Big O Explained](https://www.youtube.com/watch?v=v4cd1O4zkGw)
@@ -45,7 +43,7 @@ Note: the specifics (processor, memory, 32/64 bit) of the machine are not consid
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjA2MTI1OTYsLTIwMDUzODM3MDksMT
-U0MDAwMDY4NSwxMzkyMzQwOTk1LDIxMjA2MzUzNjYsLTE1MTM4
-NDUyMDIsMTgwNDU0NDI3N119
+eyJoaXN0b3J5IjpbNDY5ODQzNzksLTIwMDUzODM3MDksMTU0MD
+AwMDY4NSwxMzkyMzQwOTk1LDIxMjA2MzUzNjYsLTE1MTM4NDUy
+MDIsMTgwNDU0NDI3N119
 -->
