@@ -6,7 +6,7 @@
 
 ## Complexity
 
-<details><summary>SUMMARY</summary>
+<details><summary>Asymptopic Notation or Analysis</summary>
 <p>
 
 ### Asymptopic Notation or Analysis
@@ -15,6 +15,9 @@
 	* Time Complexity - How long an algorithm takes to run depending on it's input size (CPU or computing power)  
 	* Space Complexity - how much memory is required depending on the input size (RAM)  
 * 3 Forms: Big-O, Big-Θ , Big Ω  
+
+</p>
+</details>
 
 
 #### Notation
@@ -44,12 +47,10 @@ Note: the specifics (processor, memory, 32/64 bit) of the machine are not consid
  [Big O Explained](https://www.youtube.com/watch?v=v4cd1O4zkGw)
  [Khans Academy](https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/asymptotic-notation)
 
-</p>
-</details>
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NzgyMzg0MywtMTI3MDk1MzQ0NCwtMj
+eyJoaXN0b3J5IjpbMTE4NTYzMjY4NSwtMTI3MDk1MzQ0NCwtMj
 AwNTM4MzcwOSwxNTQwMDAwNjg1LDEzOTIzNDA5OTUsMjEyMDYz
 NTM2NiwtMTUxMzg0NTIwMiwxODA0NTQ0Mjc3XX0=
 -->
