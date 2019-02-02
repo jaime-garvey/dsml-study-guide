@@ -7,10 +7,10 @@
 
 
 ### Types of Machine Learning**
-| Supervised    |Unsupervised  |
+|  Types        |  Description      |
 |---------------|------------------|
-|- labeled data | -unlabed data    |
-|               |                  |
+|Supervised |    |
+|Unsupervised    | -unlabed data             |
 
 
 ## Theory
@@ -22,5 +22,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQxMTQzODc5LDMzMTU1ODY5Nl19
+eyJoaXN0b3J5IjpbLTc2OTc1MjM4MiwzMzE1NTg2OTZdfQ==
 -->
