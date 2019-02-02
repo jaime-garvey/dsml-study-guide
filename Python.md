@@ -15,9 +15,10 @@
 * rate of growth of run time - how fast fuction grows with the input size
 
 
-==Big-Θ (Big-Theta) Notation=
+**Big-Θ (Big-Theta) Notation**
 
-==Big O== - how long algorithm takes in terms of the size of it's input (time)
+**Big O** 
+(how long algorithm takes in terms of the size of it's input (time))
 1. different steps get added
 2. drop constants 
 3.  Different inputs => diffferent variables 
@@ -33,6 +34,6 @@ Note: the specifics (processor, memory, 32/64 bit) of the machine are not consid
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjI1NzIzMjUsLTE1MTM4NDUyMDIsMT
-gwNDU0NDI3N119
+eyJoaXN0b3J5IjpbMjEyMDYzNTM2NiwtMTUxMzg0NTIwMiwxOD
+A0NTQ0Mjc3XX0=
 -->
