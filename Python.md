@@ -10,7 +10,7 @@
 
 **What is it?** [Resource](https://www.youtube.com/watch?v=v4cd1O4zkGw)
 
-==Big O== - How time scales with respect to some input variables
+==Big O== - How time scales with respect to some input variables (how
 1. different steps get added
 2. drop constants 
 3.  Different inputs => diffferent variables 
@@ -24,5 +24,5 @@ Note: the specifics (processor, memory, 32/64 bit) of the machine are not consid
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNDU0NDI3N119
+eyJoaXN0b3J5IjpbLTU4NTQzNTIwNywxODA0NTQ0Mjc3XX0=
 -->
