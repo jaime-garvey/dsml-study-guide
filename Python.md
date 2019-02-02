@@ -20,11 +20,7 @@
 |![Big Omega](https://photos.app.goo.gl/vGpbwZHxWkUbbYydA)	|![Big Theta](https://photos.app.goo.gl/p6ZwQAKqDHGL99hN6)	|![Big-O](https://photos.app.goo.gl/6SU2ERVj1x9eAxNo8)	|
 
 
-
-
-**Big-Θ (Big-Theta) Notation**
-
-**Big O** 
+**Big O (Calculation)** 
 (how long algorithm takes in terms of the size of it's input (time))
 1. different steps get added
 2. drop constants 
@@ -35,12 +31,15 @@ Example: O(n<sup>2</sup>) > O(n)
 
 Note: the specifics (processor, memory, 32/64 bit) of the machine are not considered
 
+**Order of Complexity**
+
 **Resources**
  [Big O Explained](https://www.youtube.com/watch?v=v4cd1O4zkGw)
  [Khans Academy](https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/asymptotic-notation)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MDAwMDY4NSwxMzkyMzQwOTk1LDIxMj
-A2MzUzNjYsLTE1MTM4NDUyMDIsMTgwNDU0NDI3N119
+eyJoaXN0b3J5IjpbLTMzNTk1MTI3OSwxNTQwMDAwNjg1LDEzOT
+IzNDA5OTUsMjEyMDYzNTM2NiwtMTUxMzg0NTIwMiwxODA0NTQ0
+Mjc3XX0=
 -->
