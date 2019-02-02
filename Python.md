@@ -9,6 +9,8 @@
 #### Time Complexity
 
 **What is it?** [Resource](https://www.youtube.com/watch?v=v4cd1O4zkGw)
+**Asymptopic notation**( 3 Forms: Big-O, Big-Θ , Big Ω)
+*
 * runtime (of algorithm)- function of the size of the input
 * rate of growth of run time - how fast fuction grows with the input size
 
@@ -26,5 +28,5 @@ Note: the specifics (processor, memory, 32/64 bit) of the machine are not consid
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjE3NDIwMDgsMTgwNDU0NDI3N119
+eyJoaXN0b3J5IjpbMjU0MjIxNTQyLDE4MDQ1NDQyNzddfQ==
 -->
