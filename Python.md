@@ -6,6 +6,8 @@
 
 ## Complexity
 
+<details><summary>SUMMARY</summary>
+<p>
 ### Asymptopic Notation or Analysis
 * Allows us to explain how an algorithm behaves as the input grows larger
 * Two Parameters:
@@ -41,9 +43,12 @@ Note: the specifics (processor, memory, 32/64 bit) of the machine are not consid
  [Big O Explained](https://www.youtube.com/watch?v=v4cd1O4zkGw)
  [Khans Academy](https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/asymptotic-notation)
 
+</p>
+</details>
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY5ODQzNzksLTIwMDUzODM3MDksMTU0MD
-AwMDY4NSwxMzkyMzQwOTk1LDIxMjA2MzUzNjYsLTE1MTM4NDUy
-MDIsMTgwNDU0NDI3N119
+eyJoaXN0b3J5IjpbLTEwODQ0NTczOTgsLTIwMDUzODM3MDksMT
+U0MDAwMDY4NSwxMzkyMzQwOTk1LDIxMjA2MzUzNjYsLTE1MTM4
+NDUyMDIsMTgwNDU0NDI3N119
 -->
