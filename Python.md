@@ -9,7 +9,8 @@
 #### Time Complexity
 
 **What is it?** [Resource](https://www.youtube.com/watch?v=v4cd1O4zkGw)
-runtime - 
+* runtime (of algorithm)- function of the size of the input
+* rate of growth of run time - how fast fuction grows with the input size
 
 ==Big O== - how long algorithm takes in terms of the size of it's input (time)
 1. different steps get added
@@ -25,5 +26,5 @@ Note: the specifics (processor, memory, 32/64 bit) of the machine are not consid
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NzI4NjIyOCwxODA0NTQ0Mjc3XX0=
+eyJoaXN0b3J5IjpbLTE5NjE3NDIwMDgsMTgwNDU0NDI3N119
 -->
