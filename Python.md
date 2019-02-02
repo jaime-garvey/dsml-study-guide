@@ -7,12 +7,12 @@
 ### Complexity
 
 #### Time Complexity
-
-
-**Asymptopic notation**( 3 Forms: Big-O, Big-Θ , Big Ω)
-* Use asynptotic notation when we drop the constant coefficents and less significant terms
 * runtime (of algorithm)- function of the size of the input
-* rate of growth of run time - how fast fuction grows with the input size
+* Time Complexity is  the rate of growth of run time or how fast fuction grows with the input size
+
+**Asymptopic notation**
+(What is used to denote the time complexity
+( 3 Forms: Big-O, Big-Θ , Big Ω)
 
 
 **Big-Θ (Big-Theta) Notation**
@@ -34,6 +34,6 @@ Note: the specifics (processor, memory, 32/64 bit) of the machine are not consid
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMDYzNTM2NiwtMTUxMzg0NTIwMiwxOD
-A0NTQ0Mjc3XX0=
+eyJoaXN0b3J5IjpbMzU3MzM5MDczLDIxMjA2MzUzNjYsLTE1MT
+M4NDUyMDIsMTgwNDU0NDI3N119
 -->
