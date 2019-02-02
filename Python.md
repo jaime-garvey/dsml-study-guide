@@ -8,12 +8,13 @@
 
 <details><summary>SUMMARY</summary>
 <p>
+
 ### Asymptopic Notation or Analysis
-* Allows us to explain how an algorithm behaves as the input grows larger
-* Two Parameters:
-	* Time Complexity - How long an algorithm takes to run depending on it's input size (CPU or computing power)
-	* Space Complexity - how much memory is required depending on the input size (RAM)
-* 3 Forms: Big-O, Big-Θ , Big Ω
+* Allows us to explain how an algorithm behaves as the input grows larger  
+* Two Parameters:  
+	* Time Complexity - How long an algorithm takes to run depending on it's input size (CPU or computing power)  
+	* Space Complexity - how much memory is required depending on the input size (RAM)  
+* 3 Forms: Big-O, Big-Θ , Big Ω  
 
 
 #### Notation
@@ -48,7 +49,7 @@ Note: the specifics (processor, memory, 32/64 bit) of the machine are not consid
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODQ0NTczOTgsLTIwMDUzODM3MDksMT
+eyJoaXN0b3J5IjpbLTEyNzA5NTM0NDQsLTIwMDUzODM3MDksMT
 U0MDAwMDY4NSwxMzkyMzQwOTk1LDIxMjA2MzUzNjYsLTE1MTM4
 NDUyMDIsMTgwNDU0NDI3N119
 -->
