@@ -14,7 +14,8 @@
 (What is used to denote the time complexity)
 | Big Ω (Big-Omega) | Big-Θ (Big-Theta) | Big-O (Big-Omega)  |
 |-------------------|----------------|-----------------------|
-|  |count only large values of n |* Upper bound (or worst case senario)  |
+|lower bound (or best case senario)  |count only large values of n |Upper bound (or worst case senario)  |
+|	|	|	|
 
 ( 3 Forms: Big-O, Big-Θ , Big Ω)
 
@@ -38,6 +39,6 @@ Note: the specifics (processor, memory, 32/64 bit) of the machine are not consid
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU3NjMzMTcxLDIxMjA2MzUzNjYsLTE1MT
-M4NDUyMDIsMTgwNDU0NDI3N119
+eyJoaXN0b3J5IjpbLTk5NDkzODMyMSwyMTIwNjM1MzY2LC0xNT
+EzODQ1MjAyLDE4MDQ1NDQyNzddfQ==
 -->
