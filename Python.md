@@ -11,13 +11,15 @@
 * Time Complexity is  the rate of growth of run time or how fast fuction grows with the input size
 
 **Asymptopic notation**
-(What is used to denote the time complexity)
+* What is used to denote the time complexity
+* (3 Forms: Big-O, Big-Θ , Big Ω
+
 | Big Ω (Big-Omega) | Big-Θ (Big-Theta) | Big-O  |
 |-------------------|----------------|-----------------------|
 |lower bound (or best case senario)  |count only large values of n |Upper bound (or worst case senario)  |
 |![Big Omega](https://photos.app.goo.gl/vGpbwZHxWkUbbYydA)	|![Big Theta](https://photos.app.goo.gl/p6ZwQAKqDHGL99hN6)	|![Big-O](https://photos.app.goo.gl/6SU2ERVj1x9eAxNo8)	|
 
-( 3 Forms: Big-O, Big-Θ , Big Ω)
+
 
 
 **Big-Θ (Big-Theta) Notation**
@@ -39,6 +41,6 @@ Note: the specifics (processor, memory, 32/64 bit) of the machine are not consid
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MjM0MDk5NSwyMTIwNjM1MzY2LC0xNT
-EzODQ1MjAyLDE4MDQ1NDQyNzddfQ==
+eyJoaXN0b3J5IjpbMTU0MDAwMDY4NSwxMzkyMzQwOTk1LDIxMj
+A2MzUzNjYsLTE1MTM4NDUyMDIsMTgwNDU0NDI3N119
 -->
