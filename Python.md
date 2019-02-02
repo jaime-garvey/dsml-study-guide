@@ -19,7 +19,8 @@
 </p>
 </details>
 
-
+<details><summary>Notation</summary>
+<p>
 #### Notation
 
 | Big Ω (Big-Omega) | Big-Θ (Big-Theta) | Big-O  |
@@ -27,7 +28,11 @@
 |lower bound (or best case senario)  |average case scenario |Upper bound (or worst case senario)  |
 |![Big Omega](https://photos.app.goo.gl/vGpbwZHxWkUbbYydA)	|![Big Theta](https://photos.app.goo.gl/p6ZwQAKqDHGL99hN6)	|![Big-O](https://photos.app.goo.gl/6SU2ERVj1x9eAxNo8)	|
 
+</p>
+</details>
 
+<details><summary>Calculating Complexity</summary>
+<p>
 #### Calculating Complexity
 (how long algorithm takes in terms of the size of it's input (time))
 1. Different steps get added - Running time is the sumation of all fragments
@@ -42,15 +47,21 @@ Note: the specifics (processor, memory, 32/64 bit) of the machine are not consid
 #### Order of Complexity
 ![Complexity Graph](dsml-study-guide/images/Complexity%20Graph.png)
 
+</p>
+</details>
 
+<details><summary>Resources</summary>
+<p> 
 **Resources**
  [Big O Explained](https://www.youtube.com/watch?v=v4cd1O4zkGw)
  [Khans Academy](https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/asymptotic-notation)
 
+</p>
+</details>
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NTYzMjY4NSwtMTI3MDk1MzQ0NCwtMj
-AwNTM4MzcwOSwxNTQwMDAwNjg1LDEzOTIzNDA5OTUsMjEyMDYz
-NTM2NiwtMTUxMzg0NTIwMiwxODA0NTQ0Mjc3XX0=
+eyJoaXN0b3J5IjpbLTEyNTYzODY4MTQsLTEyNzA5NTM0NDQsLT
+IwMDUzODM3MDksMTU0MDAwMDY4NSwxMzkyMzQwOTk1LDIxMjA2
+MzUzNjYsLTE1MTM4NDUyMDIsMTgwNDU0NDI3N119
 -->
