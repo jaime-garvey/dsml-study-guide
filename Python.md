@@ -33,16 +33,16 @@
 
 <details><summary>Calculating Complexity</summary>
 <p>
-#### Calculating Complexity
-(how long algorithm takes in terms of the size of it's input (time))
-1. Different steps get added - Running time is the sumation of all fragments
-2. Drop constants 
-3.  Different inputs => diffferent variables 
+#### Calculating Complexity  
+(how long algorithm takes in terms of the size of it's input (time))  
+1. Different steps get added - Running time is the sumation of all fragments  
+2. Drop constants   
+3.  Different inputs => diffferent variables   
 ![Example of Naming Variables for Big O](https://photos.google.com/album/AF1QipPfjm3PHBCiN_eT1T8CAOtzKh6txR99WmTXPr93/photo/AF1QipO6ti8ZlIrT-mqBlEtWesSHBGwYwH0puYWkqJxw)
-4. Drop non-dominate terms 
-Example: O(n<sup>2</sup>) > O(n)
+4. Drop non-dominate terms   
+Example: O(n<sup>2</sup>) > O(n)  
 
-Note: the specifics (processor, memory, 32/64 bit) of the machine are not considered
+Note: the specifics (processor, memory, 32/64 bit) of the machine are not considered  
 
 #### Order of Complexity
 ![Complexity Graph](dsml-study-guide/images/Complexity%20Graph.png)
@@ -61,7 +61,7 @@ Note: the specifics (processor, memory, 32/64 bit) of the machine are not consid
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTYzODY4MTQsLTEyNzA5NTM0NDQsLT
-IwMDUzODM3MDksMTU0MDAwMDY4NSwxMzkyMzQwOTk1LDIxMjA2
-MzUzNjYsLTE1MTM4NDUyMDIsMTgwNDU0NDI3N119
+eyJoaXN0b3J5IjpbMTA4NTE3MzEyMiwtMTI3MDk1MzQ0NCwtMj
+AwNTM4MzcwOSwxNTQwMDAwNjg1LDEzOTIzNDA5OTUsMjEyMDYz
+NTM2NiwtMTUxMzg0NTIwMiwxODA0NTQ0Mjc3XX0=
 -->
