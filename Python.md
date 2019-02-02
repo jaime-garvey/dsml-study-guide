@@ -8,17 +8,13 @@
 
 #### Asymptopic Notation or Analysis
 * Allows us to explain how an algorithm behaves as the input grows larger
-* 2 Parameters:
-	* Time Complexity - How long an algorithm takes to run depending on it's input size
-	* Space Complexity 
+* Two Parameters:
+	* Time Complexity - How long an algorithm takes to run depending on it's input size (CPU or computing power)
+	* Space Complexity - how much memory is required depending on the input size (RAM)
 * 3 Forms: Big-O, Big-Θ , Big Ω
 
 
 ##### Time Complexity
-* runtime (of algorithm)- function of the size of the input
-* Time Complexity is  the rate of growth of run time or how fast fuction grows with the input size
-
-
 
 | Big Ω (Big-Omega) | Big-Θ (Big-Theta) | Big-O  |
 |-------------------|----------------|-----------------------|
@@ -49,7 +45,7 @@ Note: the specifics (processor, memory, 32/64 bit) of the machine are not consid
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg1ODY2NDg5LC0yMDA1MzgzNzA5LDE1ND
-AwMDA2ODUsMTM5MjM0MDk5NSwyMTIwNjM1MzY2LC0xNTEzODQ1
-MjAyLDE4MDQ1NDQyNzddfQ==
+eyJoaXN0b3J5IjpbLTE3NTgyMzIyNzEsLTIwMDUzODM3MDksMT
+U0MDAwMDY4NSwxMzkyMzQwOTk1LDIxMjA2MzUzNjYsLTE1MTM4
+NDUyMDIsMTgwNDU0NDI3N119
 -->
