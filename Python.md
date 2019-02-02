@@ -9,8 +9,9 @@
 #### Time Complexity
 
 **What is it?** [Resource](https://www.youtube.com/watch?v=v4cd1O4zkGw)
+runtime - 
 
-==Big O== - How time scales with respect to some input variables (how
+==Big O== - how long algorithm takes in terms of the size of it's input (time)
 1. different steps get added
 2. drop constants 
 3.  Different inputs => diffferent variables 
@@ -24,5 +25,5 @@ Note: the specifics (processor, memory, 32/64 bit) of the machine are not consid
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NTQzNTIwNywxODA0NTQ0Mjc3XX0=
+eyJoaXN0b3J5IjpbMTk5NzI4NjIyOCwxODA0NTQ0Mjc3XX0=
 -->
