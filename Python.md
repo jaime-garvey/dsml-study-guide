@@ -12,8 +12,8 @@
 
 **Asymptopic notation**
 (What is used to denote the time complexity)
-| Big Ω (Big-Omega) | Big-Θ (Big-Theta) | Big-O (  |
-|--|--|--|
+| Big Ω (Big-Omega) | Big-Θ (Big-Theta) | Big-O (Big-Omega)  |
+|-------------------|----------------|-----------------------|
 |  |  |  |
 
 ( 3 Forms: Big-O, Big-Θ , Big Ω)
@@ -38,6 +38,6 @@ Note: the specifics (processor, memory, 32/64 bit) of the machine are not consid
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI0NDU3ODgzLDIxMjA2MzUzNjYsLTE1MT
-M4NDUyMDIsMTgwNDU0NDI3N119
+eyJoaXN0b3J5IjpbLTE0NTcyNTYwMTYsMjEyMDYzNTM2NiwtMT
+UxMzg0NTIwMiwxODA0NTQ0Mjc3XX0=
 -->
