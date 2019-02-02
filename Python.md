@@ -12,10 +12,10 @@
 
 **Asymptopic notation**
 (What is used to denote the time complexity)
-| Big Ω (Big-Omega) | Big-Θ (Big-Theta) | Big-O (Big-Omega)  |
+| Big Ω (Big-Omega) | Big-Θ (Big-Theta) | Big-O  |
 |-------------------|----------------|-----------------------|
 |lower bound (or best case senario)  |count only large values of n |Upper bound (or worst case senario)  |
-|	|![Big Theta](https://photos.app.goo.gl/p6ZwQAKqDHGL99hN6)	|	|
+|![Big Omega](https://photos.app.goo.gl/vGpbwZHxWkUbbYydA)	|![Big Theta](https://photos.app.goo.gl/p6ZwQAKqDHGL99hN6)	|![Big-O](https://photos.app.goo.gl/6SU2ERVj1x9eAxNo8)	|
 
 ( 3 Forms: Big-O, Big-Θ , Big Ω)
 
@@ -39,6 +39,6 @@ Note: the specifics (processor, memory, 32/64 bit) of the machine are not consid
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzA4NjQxODcsMjEyMDYzNTM2NiwtMT
-UxMzg0NTIwMiwxODA0NTQ0Mjc3XX0=
+eyJoaXN0b3J5IjpbMTM5MjM0MDk5NSwyMTIwNjM1MzY2LC0xNT
+EzODQ1MjAyLDE4MDQ1NDQyNzddfQ==
 -->
