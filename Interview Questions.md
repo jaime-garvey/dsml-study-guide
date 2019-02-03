@@ -42,11 +42,11 @@
 ### Deep Learning
 
 ### SQL
-1. Let's say you have a table (cars) which several rows (id - int, make - string, model - string, cylinders - int, horsepower - int). Write a query that gives the 3 vechcles that have the highest horsepower with at least cylinders. 
+1. Let's say you have a table (cars) which several rows (id - int, make - string, model - string, cylinders - int, horsepower - int). Write a query that gives the 3 vehicles that have the highest horsepower with at least cylinders. 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDU2ODg1MzcsLTE4NTE2MzgwNjYsLT
-ExMTY1MTU0MjZdfQ==
+eyJoaXN0b3J5IjpbLTI4NzI2ODkyNSwtMTg1MTYzODA2NiwtMT
+ExNjUxNTQyNl19
 -->
