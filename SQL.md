@@ -39,13 +39,12 @@
 </details>
 
 
-<details><summary>Primary and  Foreign Keys</summary>
+<details><summary>Statements</summary>
 <p>
-	<li><b>Primary Key</b> - a column (or set of columns) whose values <u>uniquely</u> identify every row in a table <br>
-	<li><b>Foreign Key</b> - One of more columns that can be used together to identiy a single row in another table
+
 </p>
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNjY5MjEzOSwtMTUyNjkxOTc3OCwtOD
-I3OTkwNjY5LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNTc0NDkzMzA1LC05MTY2OTIxMzksLTE1Mj
+Y5MTk3NzgsLTgyNzk5MDY2OSw3MzA5OTgxMTZdfQ==
 -->
