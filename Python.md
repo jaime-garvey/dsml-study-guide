@@ -3,15 +3,15 @@
 # Table of Contents
 * [Complexity](complexity)
 
-## Standard Input & Output
-
 <details><summary>Summary</summary>
 <p>
+
+## Standard Input & Output
 * the _builtin function input` reads input from the _standard input stream (`sys.stdin`)<br/>
 * the _builtin function`print` prints output to the _standard output stream_ (`sys.stdout`)<br/>
 * the _standard error stream_ (`sys.stderr`), to which unhandled exceptions get printed<br/>
 
-Note: a**stream** is a sequence of data elements made available over time  
+**Note:** a **stream** is a sequence of data elements made available over time  
 </p>
 </details>
   
@@ -73,8 +73,8 @@ Note: the specifics (processor, memory, 32/64 bit) of the machine are not consid
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MzIzMTMyNywxMDg1MTczMTIyLC0xMj
-cwOTUzNDQ0LC0yMDA1MzgzNzA5LDE1NDAwMDA2ODUsMTM5MjM0
-MDk5NSwyMTIwNjM1MzY2LC0xNTEzODQ1MjAyLDE4MDQ1NDQyNz
-ddfQ==
+eyJoaXN0b3J5IjpbLTg4MzUxODUxOSwxMTQzMjMxMzI3LDEwOD
+UxNzMxMjIsLTEyNzA5NTM0NDQsLTIwMDUzODM3MDksMTU0MDAw
+MDY4NSwxMzkyMzQwOTk1LDIxMjA2MzUzNjYsLTE1MTM4NDUyMD
+IsMTgwNDU0NDI3N119
 -->
