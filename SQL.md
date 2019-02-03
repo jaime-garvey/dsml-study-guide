@@ -41,12 +41,14 @@
 
 <details><summary>Cheatsheet</summary>
 <p>
-[embed]http://example.com/file.pdf[/embed]
+[embed]
+        dsml-study-guide/images/zt_sql_cheat_sheet.pdf
+      [/embed]
 
 </p>
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ4MzgzNzk0LC0xNDUxOTkyNjI2LC05MT
+eyJoaXN0b3J5IjpbMzk5ODU0NTU2LC0xNDUxOTkyNjI2LC05MT
 Y2OTIxMzksLTE1MjY5MTk3NzgsLTgyNzk5MDY2OSw3MzA5OTgx
 MTZdfQ==
 -->
