@@ -3,7 +3,14 @@
 # Table of Contents
 * [Complexity](complexity)
 
+## Standard Input & Output
 
+<details><summary>Summary</summary>
+<p>
+
+a **stream** is a sequence of data elements made available over time
+</p>
+</details>
 ## Complexity
 
 <details><summary>Asymptopic Notation or Analysis</summary>
@@ -59,9 +66,11 @@ Note: the specifics (processor, memory, 32/64 bit) of the machine are not consid
 </p>
 </details>
 
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NTE3MzEyMiwtMTI3MDk1MzQ0NCwtMj
-AwNTM4MzcwOSwxNTQwMDAwNjg1LDEzOTIzNDA5OTUsMjEyMDYz
-NTM2NiwtMTUxMzg0NTIwMiwxODA0NTQ0Mjc3XX0=
+eyJoaXN0b3J5IjpbMTkwOTU1NTQwMywxMDg1MTczMTIyLC0xMj
+cwOTUzNDQ0LC0yMDA1MzgzNzA5LDE1NDAwMDA2ODUsMTM5MjM0
+MDk5NSwyMTIwNjM1MzY2LC0xNTEzODQ1MjAyLDE4MDQ1NDQyNz
+ddfQ==
 -->
