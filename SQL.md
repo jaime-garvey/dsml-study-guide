@@ -42,11 +42,11 @@
 <details><summary>Cheatsheet</summary>
 <p>
 	<a href="/images/zt_sql_cheat_sheet.pdf">_Cheat Sheet_</a>
-	<img src="/images/zt_sql_cheat_sheet.pdf"  alt="Cheat Sheet">
+	![Image of Yaktocat](/images/zt_sql_cheat_sheet.pdf)<img src="/images/zt_sql_cheat_sheet.pdf"  alt="Cheat Sheet">
 </p>
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjAwNjI0NDgsMjA1NDQ0NTY4LC0xMj
+eyJoaXN0b3J5IjpbLTEyNDU0MjE3MjUsMjA1NDQ0NTY4LC0xMj
 M1MDQ5MDksLTc5MTE3ODg3NywxMTcxMzY3NTYwLC0xNDUxOTky
 NjI2LC05MTY2OTIxMzksLTE1MjY5MTk3NzgsLTgyNzk5MDY2OS
 w3MzA5OTgxMTZdfQ==
