@@ -42,15 +42,17 @@
 <details><summary>Cheatsheet</summary>
 <p>
 	<a href="/images/zt_sql_cheat_sheet.pdf">_Cheat Sheet_</a>
+
+</details>
+
 <object data="https://github.com/jaime-garvey/dsml-study-guide/blob/master/images/zt_sql_cheat_sheet.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/jaime-garvey/dsml-study-guide/blob/master/images/zt_sql_cheat_sheet.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/jaime-garvey/dsml-study-guide/blob/master/images/zt_sql_cheat_sheet.pdf">Download PDF</a>.</p>
     </embed>
 </object>
-</details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MTMxODAxNiwyMDU0NDQ1NjgsLTEyMz
-UwNDkwOSwtNzkxMTc4ODc3LDExNzEzNjc1NjAsLTE0NTE5OTI2
-MjYsLTkxNjY5MjEzOSwtMTUyNjkxOTc3OCwtODI3OTkwNjY5LD
-czMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTIwNzM4NDQyNjAsMjA1NDQ0NTY4LC0xMj
+M1MDQ5MDksLTc5MTE3ODg3NywxMTcxMzY3NTYwLC0xNDUxOTky
+NjI2LC05MTY2OTIxMzksLTE1MjY5MTk3NzgsLTgyNzk5MDY2OS
+w3MzA5OTgxMTZdfQ==
 -->
