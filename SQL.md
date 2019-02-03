@@ -41,13 +41,13 @@
 
 <details><summary>Cheatsheet</summary>
 <p>
-	<iframe src="
-        https://github.com/jaime-garvey/dsml-study-guide/images/zt_sql_cheat_sheet.pdf"></iframe>
+	<iframe src="/images/zt_sql_cheat_sheet.pdf"></iframe>
 	  </object>
 </p>
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzUwNDkwOSwtNzkxMTc4ODc3LDExNz
-EzNjc1NjAsLTE0NTE5OTI2MjYsLTkxNjY5MjEzOSwtMTUyNjkx
-OTc3OCwtODI3OTkwNjY5LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMjA1NDQ0NTY4LC0xMjM1MDQ5MDksLTc5MT
+E3ODg3NywxMTcxMzY3NTYwLC0xNDUxOTkyNjI2LC05MTY2OTIx
+MzksLTE1MjY5MTk3NzgsLTgyNzk5MDY2OSw3MzA5OTgxMTZdfQ
+==
 -->
