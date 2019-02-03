@@ -41,12 +41,13 @@
 
 <details><summary>Cheatsheet</summary>
 <p>
-<embed  src="dsml-study-guide/images/zt_sql_cheat_sheet.pdf#toolbar=0" width="500px"  height="500px" />
-
+<object data="dsml-study-guide/images/zt_sql_cheat_sheet.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="dsml-study-guide/images/zt_sql_cheat_sheet.pdf">
+    </embed>
 </p>
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNTM2NzMwLC0xNDUxOTkyNjI2LC05MT
-Y2OTIxMzksLTE1MjY5MTk3NzgsLTgyNzk5MDY2OSw3MzA5OTgx
-MTZdfQ==
+eyJoaXN0b3J5IjpbMjA3MzgyNTE4NCwtMTQ1MTk5MjYyNiwtOT
+E2NjkyMTM5LC0xNTI2OTE5Nzc4LC04Mjc5OTA2NjksNzMwOTk4
+MTE2XX0=
 -->
