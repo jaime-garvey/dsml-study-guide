@@ -8,7 +8,8 @@
 
 ### Statistics & Probability
 1. Describe the factors and statistical testing involved in setting up a conversion rate A/B test.
-2. You are in a free throw competition. You ahve two options: 2 shot with 2/3 probability to making it, 3 shots with 1/2 probability to making it. It tak
+2. You are in a free throw competition. You ahve two options: 2 shot with 2/3 probability to making it, 3 shots with 1/2 probability to making it. It takes 1 shot to win. Which would you choose?
+	a. Part II: What is it took 2 shots to win. Which would you choose?
 
 
 ### Python
@@ -45,6 +46,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNTE5MzAwMywtMTg1MTYzODA2NiwtMT
+eyJoaXN0b3J5IjpbMTEyNDk4MTc3OSwtMTg1MTYzODA2NiwtMT
 ExNjUxNTQyNl19
 -->
