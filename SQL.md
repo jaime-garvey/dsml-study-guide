@@ -14,10 +14,27 @@
 
 <details><summary>Relational vs. Tranactional Databases</summary>
 <p>
+<table style="width:100%">
+  <tr>
+    <th>Relational</th>
+    <th>Transactional</th> 
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
 
+</table>
 
 </p>
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNzk5MDY2OSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNTUxOTkwNTgyLC04Mjc5OTA2NjksNzMwOT
+k4MTE2XX0=
 -->
