@@ -41,11 +41,11 @@
 
 <details><summary>Primary and  Foreign Keys</summary>
 <p>
-	<li>Primary Key - a column (or set of columns) whose values uniquely identify every row in a table <br>
-	<li>Foreign Key - One of more columns that can be used together to ientiy a single row in another table
+	<li><b>Primary Key</b> - a column (or set of columns) whose values <u>uniquely</u> identify every row in a table <br>
+	<li><b>Foreign Key</b> - One of more columns that can be used together to identiy a single row in another table
 </p>
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4Mjc4NDgwOCwtMTUyNjkxOTc3OCwtOD
+eyJoaXN0b3J5IjpbLTkxNjY5MjEzOSwtMTUyNjkxOTc3OCwtOD
 I3OTkwNjY5LDczMDk5ODExNl19
 -->
