@@ -21,13 +21,7 @@
   </tr>
   <tr>
     <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>Jill</td>
   </tr>
 
 </table>
@@ -35,6 +29,6 @@
 </p>
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUxOTkwNTgyLC04Mjc5OTA2NjksNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbMTU2MDgwOTA1MCwtODI3OTkwNjY5LDczMD
+k5ODExNl19
 -->
