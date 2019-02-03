@@ -42,10 +42,11 @@
 ### Deep Learning
 
 ### SQL
+1. Let's say you have a table (cars) which several rows (id, make, model,
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNDk4MTc3OSwtMTg1MTYzODA2NiwtMT
-ExNjUxNTQyNl19
+eyJoaXN0b3J5IjpbLTE5NTM1NjE0NzIsLTE4NTE2MzgwNjYsLT
+ExMTY1MTU0MjZdfQ==
 -->
