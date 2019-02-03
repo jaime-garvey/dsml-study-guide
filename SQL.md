@@ -42,11 +42,12 @@
 <details><summary>Cheatsheet</summary>
 <p>
 	<a href="/images/zt_sql_cheat_sheet.pdf">_Cheat Sheet_</a>
+	<img src="/images/zt_sql_cheat_sheet.pdf"  alt="Cheat Sheet">
 </p>
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MjcxNTQ4NywyMDU0NDQ1NjgsLTEyMz
-UwNDkwOSwtNzkxMTc4ODc3LDExNzEzNjc1NjAsLTE0NTE5OTI2
-MjYsLTkxNjY5MjEzOSwtMTUyNjkxOTc3OCwtODI3OTkwNjY5LD
-czMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTE0MjAwNjI0NDgsMjA1NDQ0NTY4LC0xMj
+M1MDQ5MDksLTc5MTE3ODg3NywxMTcxMzY3NTYwLC0xNDUxOTky
+NjI2LC05MTY2OTIxMzksLTE1MjY5MTk3NzgsLTgyNzk5MDY2OS
+w3MzA5OTgxMTZdfQ==
 -->
