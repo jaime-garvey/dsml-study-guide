@@ -37,7 +37,14 @@
 
 </p>
 </details>
+
+
+<details><summary>Primary and  Foreign Keys</summary>
+<p>
+Primary Key - a column (or set of columns) whose value
+</p>
+</details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjY5MTk3NzgsLTgyNzk5MDY2OSw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMjExNDIxNjU1MiwtMTUyNjkxOTc3OCwtOD
+I3OTkwNjY5LDczMDk5ODExNl19
 -->
