@@ -7,7 +7,7 @@
 
 <details><summary>Summary</summary>
 <p>
-* the _builtin function input` reads input from the _standard input stream (`sys.stdin`) \
+* the _builtin function input` reads input from the _standard input stream (`sys.stdin`)<br/>
 * the _builtin function`print` prints output to the _standard output stream_ (`sys.stdout`)  \
 * the _standard error stream_ (`sys.stderr`), to which unhandled exceptions get printed  \
 
@@ -73,7 +73,7 @@ Note: the specifics (processor, memory, 32/64 bit) of the machine are not consid
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NTkzODg4NSwxMDg1MTczMTIyLC0xMj
+eyJoaXN0b3J5IjpbLTgxMDY1MzMxMiwxMDg1MTczMTIyLC0xMj
 cwOTUzNDQ0LC0yMDA1MzgzNzA5LDE1NDAwMDA2ODUsMTM5MjM0
 MDk5NSwyMTIwNjM1MzY2LC0xNTEzODQ1MjAyLDE4MDQ1NDQyNz
 ddfQ==
