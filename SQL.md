@@ -9,9 +9,15 @@
 <p>
 <li> Sturctured Query Language - language for structured database management and data manipulation
 <li>Used to (1) read and retrieve data, (2) write data, and (3) update data
+</p>
+</details>
+
+<details><summary>Relational vs. Tranactional Databases</summary>
+<p>
+
 
 </p>
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NzIwNzQ1MCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTgyNzk5MDY2OSw3MzA5OTgxMTZdfQ==
 -->
