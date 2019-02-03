@@ -7,9 +7,11 @@
 ## SQL
 <details><summary>What is it?</summary>
 <p>
-* database language
+* sturctured query language - language for structured database management and data manipulation
+* used to query, insert, update, and modify data
+* 
 </p>
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1OTYyOTYyNiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNjQyMDg4NTYwLDczMDk5ODExNl19
 -->
