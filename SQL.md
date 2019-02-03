@@ -20,7 +20,13 @@
     <th>Transactional</th> 
   </tr>
   <tr>
-    <td>Jill</td>
+    <td> 
+	    <ul>
+		    <li>shows relationshop between tables</li>
+		    <li>allows for easy querying and data manipulation  </li>
+		    <li>pineapples</li>
+	   </ul>
+    </td>
     <td>Jill</td>
   </tr>
 
@@ -29,6 +35,6 @@
 </p>
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MDgwOTA1MCwtODI3OTkwNjY5LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbLTE4MjEwMzUzMjAsLTgyNzk5MDY2OSw3Mz
+A5OTgxMTZdfQ==
 -->
