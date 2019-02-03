@@ -14,6 +14,7 @@
 Note: a**stream** is a sequence of data elements made available over time  
 </p>
 </details>
+  
 ## Complexity
 
 <details><summary>Asymptopic Notation or Analysis</summary>
@@ -72,8 +73,8 @@ Note: the specifics (processor, memory, 32/64 bit) of the machine are not consid
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwODcyMywxMDg1MTczMTIyLC0xMjcwOT
-UzNDQ0LC0yMDA1MzgzNzA5LDE1NDAwMDA2ODUsMTM5MjM0MDk5
-NSwyMTIwNjM1MzY2LC0xNTEzODQ1MjAyLDE4MDQ1NDQyNzddfQ
-==
+eyJoaXN0b3J5IjpbLTc1MjIxNzkzLDEwODUxNzMxMjIsLTEyNz
+A5NTM0NDQsLTIwMDUzODM3MDksMTU0MDAwMDY4NSwxMzkyMzQw
+OTk1LDIxMjA2MzUzNjYsLTE1MTM4NDUyMDIsMTgwNDU0NDI3N1
+19
 -->
