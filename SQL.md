@@ -22,12 +22,15 @@
   <tr>
     <td> 
 	    <ul>
-		    <li>shows relationshop between tables</li>
-		    <li>allows for easy querying and data manipulation  </li>
-		    <li>pineapples</li>
+		    <li>shows relationships between tables</li>
+		    <li>easy querying and data manipulation</li>
 	   </ul>
     </td>
-    <td>Jill</td>
+    <td>
+	    <ul>
+		    <li>operational database</li>
+	   </ul>
+    </td>
   </tr>
 
 </table>
@@ -35,6 +38,6 @@
 </p>
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjEwMzUzMjAsLTgyNzk5MDY2OSw3Mz
+eyJoaXN0b3J5IjpbLTE1MjY5MTk3NzgsLTgyNzk5MDY2OSw3Mz
 A5OTgxMTZdfQ==
 -->
