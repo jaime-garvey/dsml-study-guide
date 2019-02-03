@@ -39,13 +39,14 @@
 </details>
 
 
-<details><summary>Queerying Data for a Table</summary>
+<details><summary>C</summary>
 <p>
 
 
 </p>
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTE5OTI2MjYsLTkxNjY5MjEzOSwtMT
-UyNjkxOTc3OCwtODI3OTkwNjY5LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTE1ODA3NTQ3OCwtMTQ1MTk5MjYyNiwtOT
+E2NjkyMTM5LC0xNTI2OTE5Nzc4LC04Mjc5OTA2NjksNzMwOTk4
+MTE2XX0=
 -->
