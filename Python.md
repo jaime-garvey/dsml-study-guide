@@ -8,8 +8,8 @@
 <details><summary>Summary</summary>
 <p>
 * the _builtin function input` reads input from the _standard input stream (`sys.stdin`)<br/>
-* the _builtin function`print` prints output to the _standard output stream_ (`sys.stdout`)  \
-* the _standard error stream_ (`sys.stderr`), to which unhandled exceptions get printed  \
+* the _builtin function`print` prints output to the _standard output stream_ (`sys.stdout`)<br/>
+* the _standard error stream_ (`sys.stderr`), to which unhandled exceptions get printed<br/>
 
 Note: a**stream** is a sequence of data elements made available over time  
 </p>
@@ -21,11 +21,11 @@ Note: a**stream** is a sequence of data elements made available over time
 <p>
 
 ### Asymptopic Notation or Analysis
-* Allows us to explain how an algorithm behaves as the input grows larger  
-* Two Parameters:  
-	* Time Complexity - How long an algorithm takes to run depending on it's input size (CPU or computing power)  
-	* Space Complexity - how much memory is required depending on the input size (RAM)  
-* 3 Forms: Big-O, Big-Θ , Big Ω  
+* Allows us to explain how an algorithm behaves as the input grows larger <br/>
+* Two Parameters: <br/>
+	* Time Complexity - How long an algorithm takes to run depending on it's input size (CPU or computing power)<br/>  
+	* Space Complexity - how much memory is required depending on the input size (RAM) <br/>
+* 3 Forms: Big-O, Big-Θ , Big Ω <br/>
 
 </p>
 </details>
@@ -73,7 +73,7 @@ Note: the specifics (processor, memory, 32/64 bit) of the machine are not consid
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMDY1MzMxMiwxMDg1MTczMTIyLC0xMj
+eyJoaXN0b3J5IjpbMTE0MzIzMTMyNywxMDg1MTczMTIyLC0xMj
 cwOTUzNDQ0LC0yMDA1MzgzNzA5LDE1NDAwMDA2ODUsMTM5MjM0
 MDk5NSwyMTIwNjM1MzY2LC0xNTEzODQ1MjAyLDE4MDQ1NDQyNz
 ddfQ==
