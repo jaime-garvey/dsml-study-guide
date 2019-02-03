@@ -41,13 +41,14 @@
 
 <details><summary>Cheatsheet</summary>
 <p>
+	<a href="_url_">_link text_</a>
 	<iframe src="/images/zt_sql_cheat_sheet.pdf"></iframe>
 	  </object>
 </p>
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NDQ0NTY4LC0xMjM1MDQ5MDksLTc5MT
-E3ODg3NywxMTcxMzY3NTYwLC0xNDUxOTkyNjI2LC05MTY2OTIx
-MzksLTE1MjY5MTk3NzgsLTgyNzk5MDY2OSw3MzA5OTgxMTZdfQ
-==
+eyJoaXN0b3J5IjpbMTYyNDg3NDcxNywyMDU0NDQ1NjgsLTEyMz
+UwNDkwOSwtNzkxMTc4ODc3LDExNzEzNjc1NjAsLTE0NTE5OTI2
+MjYsLTkxNjY5MjEzOSwtMTUyNjkxOTc3OCwtODI3OTkwNjY5LD
+czMDk5ODExNl19
 -->
