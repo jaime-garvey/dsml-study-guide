@@ -5,7 +5,7 @@
 * [Complexity](complexity)
 
 ## Standard Input & Output
-<details><h2>Summary</h2>
+<details><summary>Summary</summary>
 <p>
 
 ### Summary (Standard Input & Output)
@@ -75,7 +75,7 @@ Note: the specifics (processor, memory, 32/64 bit) of the machine are not consid
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NTg3OTA4LDY0NTkzNjE3NCwxMTQzMj
+eyJoaXN0b3J5IjpbNjQ1OTM2MTc0LDY0NTkzNjE3NCwxMTQzMj
 MxMzI3LDEwODUxNzMxMjIsLTEyNzA5NTM0NDQsLTIwMDUzODM3
 MDksMTU0MDAwMDY4NSwxMzkyMzQwOTk1LDIxMjA2MzUzNjYsLT
 E1MTM4NDUyMDIsMTgwNDU0NDI3N119
