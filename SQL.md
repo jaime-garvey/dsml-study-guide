@@ -41,14 +41,14 @@
 
 <details><summary>Cheatsheet</summary>
 <p>
-	<object data="dsml-study-guide/images/zt_sql_cheat_sheet.pdf" type="application/pdf" width="700px" height="700px">
-	    <embed src="dsml-study-guide/images/zt_sql_cheat_sheet.pdf">
+	<object data="https://github.com/jaime-garvey/dsml-study-guide/blob/master/images/zt_sql_cheat_sheet.pdf" type="application/pdf" width="700px" height="700px">
+	    <embed src="https://github.com/jaime-garvey/dsml-study-guide/blob/master/images/zt_sql_cheat_sheet.pdf">
 	    </embed>
 	  </object>
 </p>
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDI3NDI1NCwtMTQ1MTk5MjYyNiwtOT
+eyJoaXN0b3J5IjpbMTE3MTM2NzU2MCwtMTQ1MTk5MjYyNiwtOT
 E2NjkyMTM5LC0xNTI2OTE5Nzc4LC04Mjc5OTA2NjksNzMwOTk4
 MTE2XX0=
 -->
