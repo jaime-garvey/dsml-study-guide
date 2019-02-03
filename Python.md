@@ -1,7 +1,7 @@
 # Python
 
 # Table of Contents
-* [Standard Input & Output](Standard Input & Output)
+* [Standard Input & Output](Standard-Input-&-Output)
 * [Complexity](complexity)
 
 ## Standard Input & Output
@@ -75,8 +75,8 @@ Note: the specifics (processor, memory, 32/64 bit) of the machine are not consid
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ1OTM2MTc0LDY0NTkzNjE3NCwxMTQzMj
-MxMzI3LDEwODUxNzMxMjIsLTEyNzA5NTM0NDQsLTIwMDUzODM3
-MDksMTU0MDAwMDY4NSwxMzkyMzQwOTk1LDIxMjA2MzUzNjYsLT
-E1MTM4NDUyMDIsMTgwNDU0NDI3N119
+eyJoaXN0b3J5IjpbLTk2MzQzMTg1MSw2NDU5MzYxNzQsMTE0Mz
+IzMTMyNywxMDg1MTczMTIyLC0xMjcwOTUzNDQ0LC0yMDA1Mzgz
+NzA5LDE1NDAwMDA2ODUsMTM5MjM0MDk5NSwyMTIwNjM1MzY2LC
+0xNTEzODQ1MjAyLDE4MDQ1NDQyNzddfQ==
 -->
