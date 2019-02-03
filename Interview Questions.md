@@ -8,6 +8,7 @@
 
 ### Statistics & Probability
 1. Describe the factors and statistical testing involved in setting up a conversion rate A/B test.
+2. You are in a free throw competition. You ahve two options: 2 shot with 2/3 probability to making it, 3 shots with 1/2 probability to making it. It tak
 
 
 ### Python
@@ -44,6 +45,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA2Mjc5ODY5LC0xODUxNjM4MDY2LC0xMT
-E2NTE1NDI2XX0=
+eyJoaXN0b3J5IjpbMTUyNTE5MzAwMywtMTg1MTYzODA2NiwtMT
+ExNjUxNTQyNl19
 -->
