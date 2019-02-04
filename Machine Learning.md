@@ -37,6 +37,11 @@
 | **Logistic Regression**  |              |
 |**Naive Bayes**  |                 |
 |**Linear Support Classifiers** |		|
+|**K-Nearest Neighbors** |		|
+|**Decision Trees** |		|
+|**Random Forests** |		|
+|**Random Forests** |		|
+
 
 
 ### Decision Trees
@@ -102,11 +107,11 @@ Note: Each approach comes at a cost (e.g. classifying more of minority class cou
 
 Note: If these methods don't work, see Anomaly Detection Algorithm. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNTY4ODIwOSw3NDg1Njk0NTcsMTIzND
-MzMTYxNSwxMTAyNDMzMjExLC0xMTAxMjk1ODQ2LC0xODgxNzMw
-Mjg5LDgyMzI3OTQ5NywtMTk5MTc0OTY0OSwyMDEwNzkwMDYzLD
-QwNDM4NTg4MiwxNzI4NTUzMzM0LC0xNTM5MTM5OTEwLDI3ODgy
-MzI4MywxOTM4OTY4OTA1LDYyOTcyNTk2OSwtMTM1OTc5Mjc4NC
-wtMjA2NTYyNjM1MywtMTcxODg5Nzc5NSw3MjQ2NjczNzMsMTE1
-OTQzMzIxOV19
+eyJoaXN0b3J5IjpbLTE5NDEwMDc5NDUsNzQ4NTY5NDU3LDEyMz
+QzMzE2MTUsMTEwMjQzMzIxMSwtMTEwMTI5NTg0NiwtMTg4MTcz
+MDI4OSw4MjMyNzk0OTcsLTE5OTE3NDk2NDksMjAxMDc5MDA2My
+w0MDQzODU4ODIsMTcyODU1MzMzNCwtMTUzOTEzOTkxMCwyNzg4
+MjMyODMsMTkzODk2ODkwNSw2Mjk3MjU5NjksLTEzNTk3OTI3OD
+QsLTIwNjU2MjYzNTMsLTE3MTg4OTc3OTUsNzI0NjY3MzczLDEx
+NTk0MzMyMTldfQ==
 -->
