@@ -23,8 +23,11 @@
 
 ## Classification
 
+### Class Imbalances
 
+
+If we build a model on an imbalanced dataset, the model may predict the majority call all the time. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1OTQzMzIxOSw2Mzk3Njk3NjcsMzMxNT
-U4Njk2XX0=
+eyJoaXN0b3J5IjpbMzMxOTQxMjMzLDExNTk0MzMyMTksNjM5Nz
+Y5NzY3LDMzMTU1ODY5Nl19
 -->
