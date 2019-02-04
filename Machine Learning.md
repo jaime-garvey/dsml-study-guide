@@ -1,6 +1,8 @@
 
 # Machine Learning
 
+## Table of Contents
+
 ## Overview
 
 ### What is Machine Learning?
@@ -55,7 +57,7 @@ Note: Each approach comes at a cost (e.g. classifying more of minority class cou
 
 Note: If these methods don't work, see Anomaly Detection Algorithm. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI3MjkyOTA3LDE5Mzg5Njg5MDUsNjI5Nz
+eyJoaXN0b3J5IjpbNjE2Mjk1MzYwLDE5Mzg5Njg5MDUsNjI5Nz
 I1OTY5LC0xMzU5NzkyNzg0LC0yMDY1NjI2MzUzLC0xNzE4ODk3
 Nzk1LDcyNDY2NzM3MywxMTU5NDMzMjE5LDYzOTc2OTc2NywzMz
 E1NTg2OTZdfQ==
