@@ -32,7 +32,10 @@
 
 ## Classification Algorithms
 
-
+| **Logistic Regression** |* |
+|-------------------------|----------|
+|**Naive Bayes**  |                 |
+|-------------------------|----------|
   
 
 ### Decision Trees
@@ -98,11 +101,11 @@ Note: Each approach comes at a cost (e.g. classifying more of minority class cou
 
 Note: If these methods don't work, see Anomaly Detection Algorithm. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ4NTY5NDU3LDEyMzQzMzE2MTUsMTEwMj
-QzMzIxMSwtMTEwMTI5NTg0NiwtMTg4MTczMDI4OSw4MjMyNzk0
-OTcsLTE5OTE3NDk2NDksMjAxMDc5MDA2Myw0MDQzODU4ODIsMT
-cyODU1MzMzNCwtMTUzOTEzOTkxMCwyNzg4MjMyODMsMTkzODk2
-ODkwNSw2Mjk3MjU5NjksLTEzNTk3OTI3ODQsLTIwNjU2MjYzNT
-MsLTE3MTg4OTc3OTUsNzI0NjY3MzczLDExNTk0MzMyMTksNjM5
-NzY5NzY3XX0=
+eyJoaXN0b3J5IjpbLTQ1OTY4NjY1Nyw3NDg1Njk0NTcsMTIzND
+MzMTYxNSwxMTAyNDMzMjExLC0xMTAxMjk1ODQ2LC0xODgxNzMw
+Mjg5LDgyMzI3OTQ5NywtMTk5MTc0OTY0OSwyMDEwNzkwMDYzLD
+QwNDM4NTg4MiwxNzI4NTUzMzM0LC0xNTM5MTM5OTEwLDI3ODgy
+MzI4MywxOTM4OTY4OTA1LDYyOTcyNTk2OSwtMTM1OTc5Mjc4NC
+wtMjA2NTYyNjM1MywtMTcxODg5Nzc5NSw3MjQ2NjczNzMsMTE1
+OTQzMzIxOV19
 -->
