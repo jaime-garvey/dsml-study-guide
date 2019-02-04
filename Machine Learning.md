@@ -40,7 +40,6 @@
 
 
 
-
 ## Class Imbalances
 (When one class that you are trying to classify is greater than the other - e.g. an unfair coin)
 
@@ -73,8 +72,8 @@ Note: Each approach comes at a cost (e.g. classifying more of minority class cou
 
 Note: If these methods don't work, see Anomaly Detection Algorithm. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjc2MzQ3NTgsLTE1MzkxMzk5MTAsMj
-c4ODIzMjgzLDE5Mzg5Njg5MDUsNjI5NzI1OTY5LC0xMzU5Nzky
-Nzg0LC0yMDY1NjI2MzUzLC0xNzE4ODk3Nzk1LDcyNDY2NzM3My
-wxMTU5NDMzMjE5LDYzOTc2OTc2NywzMzE1NTg2OTZdfQ==
+eyJoaXN0b3J5IjpbMTI1ODU5NjA3MiwtMTUzOTEzOTkxMCwyNz
+g4MjMyODMsMTkzODk2ODkwNSw2Mjk3MjU5NjksLTEzNTk3OTI3
+ODQsLTIwNjU2MjYzNTMsLTE3MTg4OTc3OTUsNzI0NjY3MzczLD
+ExNTk0MzMyMTksNjM5NzY5NzY3LDMzMTU1ODY5Nl19
 -->
