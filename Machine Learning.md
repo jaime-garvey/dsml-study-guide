@@ -30,6 +30,9 @@
 
 ## Classification Algorithms
 
+### Decision Trees
+(Use If-Then-Else logic to classify)
+
 
 
 ## Class Imbalances
@@ -64,7 +67,7 @@ Note: Each approach comes at a cost (e.g. classifying more of minority class cou
 
 Note: If these methods don't work, see Anomaly Detection Algorithm. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMTM1NTQxNSwyNzg4MjMyODMsMTkzOD
+eyJoaXN0b3J5IjpbLTM2NjUzMDM5NywyNzg4MjMyODMsMTkzOD
 k2ODkwNSw2Mjk3MjU5NjksLTEzNTk3OTI3ODQsLTIwNjU2MjYz
 NTMsLTE3MTg4OTc3OTUsNzI0NjY3MzczLDExNTk0MzMyMTksNj
 M5NzY5NzY3LDMzMTU1ODY5Nl19
