@@ -23,19 +23,19 @@
 ## Regression versus Classification
 
 
-## Regression
+# Regression
 
 
-## Classification
+# Classification
 
-### 
+## 
 
-### Class Imbalances
+## Class Imbalances
 (When one class that you are trying to classify is greater than the other - e.g. an unfair coin)
 
 If we build a model on an imbalanced dataset, the model may predict the majority call all the time (which could lead to high acuracy - misleading). 
 
-#### Method 1: Oversampling 
+### Method 1: Oversampling 
 <details><summary>Approaches</summary>
 <p>
 1. **Random** - Repeat data for minority class until it is balaned with the majority class. 
@@ -49,7 +49,7 @@ Note: Each approach comes at a cost (e.g. classifying more of minority class cou
 </p>
 </details>
 
-#### Method 2: Undersampling 
+### Method 2: Undersampling 
 
 <details><summary>Approaches</summary>
 <p>
@@ -62,7 +62,7 @@ Note: Each approach comes at a cost (e.g. classifying more of minority class cou
 
 Note: If these methods don't work, see Anomaly Detection Algorithm. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxOTYzODk0NywyNzg4MjMyODMsMTkzOD
+eyJoaXN0b3J5IjpbMTU3OTU0MzA4MSwyNzg4MjMyODMsMTkzOD
 k2ODkwNSw2Mjk3MjU5NjksLTEzNTk3OTI3ODQsLTIwNjU2MjYz
 NTMsLTE3MTg4OTc3OTUsNzI0NjY3MzczLDExNTk0MzMyMTksNj
 M5NzY5NzY3LDMzMTU1ODY5Nl19
