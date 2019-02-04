@@ -39,9 +39,11 @@ Note: Each approach comes at a cost (e.g. classifying more of minority class cou
 
 #### Method 2: Undersampling 
 1. Random - Randomly select observations in majority class so that the size of each class is equal. 
-	a. Can used for Multiclass
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTczMTY1NTQyLC0yMDY1NjI2MzUzLC0xNz
-E4ODk3Nzk1LDcyNDY2NzM3MywxMTU5NDMzMjE5LDYzOTc2OTc2
-NywzMzE1NTg2OTZdfQ==
+eyJoaXN0b3J5IjpbLTEzNTk3OTI3ODQsLTIwNjU2MjYzNTMsLT
+E3MTg4OTc3OTUsNzI0NjY3MzczLDExNTk0MzMyMTksNjM5NzY5
+NzY3LDMzMTU1ODY5Nl19
 -->
