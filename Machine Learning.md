@@ -29,7 +29,8 @@ If we build a model on an imbalanced dataset, the model may predict the majority
 
 Methods:
 1. Oversampling - Repeat data for minority class until it is balaned with the majority class. 
+	a. Synthetic 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI0NjY3MzczLDExNTk0MzMyMTksNjM5Nz
-Y5NzY3LDMzMTU1ODY5Nl19
+eyJoaXN0b3J5IjpbLTgzODU0MDQ3Nyw3MjQ2NjczNzMsMTE1OT
+QzMzIxOSw2Mzk3Njk3NjcsMzMxNTU4Njk2XX0=
 -->
