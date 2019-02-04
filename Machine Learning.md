@@ -35,9 +35,11 @@ If we build a model on an imbalanced dataset, the model may predict the majority
 	
 3. **ADAptive SYNthetic oversampling (ADASYN)** - generates point where the class imbalance is the greatest; 
 
+Note: Each approach 
+
 #### Method 2: Undersampling 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjU2MjYzNTMsLTE3MTg4OTc3OTUsNz
-I0NjY3MzczLDExNTk0MzMyMTksNjM5NzY5NzY3LDMzMTU1ODY5
-Nl19
+eyJoaXN0b3J5IjpbLTEwNDMyMzY4OTIsLTIwNjU2MjYzNTMsLT
+E3MTg4OTc3OTUsNzI0NjY3MzczLDExNTk0MzMyMTksNjM5NzY5
+NzY3LDMzMTU1ODY5Nl19
 -->
