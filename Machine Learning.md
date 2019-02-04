@@ -3,16 +3,15 @@
 
 # Table of Contents
 * [Overview](#overview)
-* [Theory](#theory)
 * [Regression](#regression)
 * [Classification](#classification)
 
-## Overview
+# Overview
 
-### What is Machine Learning?
+## What is Machine Learning?
 
 
-### Types of Machine Learning**
+## Types of Machine Learning**
 |  Types         |  Description      |
 |----------------|------------------|
 |Supervised      |-labed data      |
@@ -21,7 +20,7 @@
   
 ## Theory
 
-### Regression versus Classification
+## Regression versus Classification
 
 
 ## Regression
@@ -29,7 +28,7 @@
 
 ## Classification
 
-###
+### 
 
 ### Class Imbalances
 (When one class that you are trying to classify is greater than the other - e.g. an unfair coin)
@@ -63,7 +62,7 @@ Note: Each approach comes at a cost (e.g. classifying more of minority class cou
 
 Note: If these methods don't work, see Anomaly Detection Algorithm. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNzA5MDM0OSwyNzg4MjMyODMsMTkzOD
+eyJoaXN0b3J5IjpbMTMxOTYzODk0NywyNzg4MjMyODMsMTkzOD
 k2ODkwNSw2Mjk3MjU5NjksLTEzNTk3OTI3ODQsLTIwNjU2MjYz
 NTMsLTE3MTg4OTc3OTUsNzI0NjY3MzczLDExNTk0MzMyMTksNj
 M5NzY5NzY3LDMzMTU1ODY5Nl19
