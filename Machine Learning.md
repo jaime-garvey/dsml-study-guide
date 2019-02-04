@@ -41,7 +41,7 @@
 
 #### How to Optimize
 * Build split by split to determine best splits (find feature that gives the best separation)
-* Uses greedy algorithm - with always choose feature that has the greatedt imbalance at each split
+* Uses greedy algorithm - with always choose feature that has the greatedt imbalance at each split 
 
 ## Class Imbalances
 (When one class that you are trying to classify is greater than the other - e.g. an unfair coin)
@@ -75,9 +75,9 @@ Note: Each approach comes at a cost (e.g. classifying more of minority class cou
 
 Note: If these methods don't work, see Anomaly Detection Algorithm. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MDc2NzMzMiwxNzI4NTUzMzM0LC0xNT
-M5MTM5OTEwLDI3ODgyMzI4MywxOTM4OTY4OTA1LDYyOTcyNTk2
-OSwtMTM1OTc5Mjc4NCwtMjA2NTYyNjM1MywtMTcxODg5Nzc5NS
-w3MjQ2NjczNzMsMTE1OTQzMzIxOSw2Mzk3Njk3NjcsMzMxNTU4
-Njk2XX0=
+eyJoaXN0b3J5IjpbNDA0Mzg1ODgyLDE3Mjg1NTMzMzQsLTE1Mz
+kxMzk5MTAsMjc4ODIzMjgzLDE5Mzg5Njg5MDUsNjI5NzI1OTY5
+LC0xMzU5NzkyNzg0LC0yMDY1NjI2MzUzLC0xNzE4ODk3Nzk1LD
+cyNDY2NzM3MywxMTU5NDMzMjE5LDYzOTc2OTc2NywzMzE1NTg2
+OTZdfQ==
 -->
