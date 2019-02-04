@@ -36,13 +36,18 @@
 
 ### Decision Trees
 (Also called Classification & Regression Trees (CART); Use If-Then-Else logic to classify)
-* Look at every feature and decide which to split up
 
+<details><summary>More</summary>
+<p>
 #### How to Optimize
+* Look at every feature and decide which to split up
 * Build split by split to determine best splits (find feature that gives the best separation)
 * Uses greedy algorithm - with always choose feature that has the greatedt imbalance at each split 
 * Minimize Error
 	* Split based on [Information Entropy](https://upload.wikimedia.org/wikipedia/commons/2/22/Binary_entropy_plot.svg)
+
+</p>
+</details>
 
 ## Class Imbalances
 (When one class that you are trying to classify is greater than the other - e.g. an unfair coin)
@@ -76,9 +81,10 @@ Note: Each approach comes at a cost (e.g. classifying more of minority class cou
 
 Note: If these methods don't work, see Anomaly Detection Algorithm. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTE3NDk2NDksMjAxMDc5MDA2Myw0MD
-QzODU4ODIsMTcyODU1MzMzNCwtMTUzOTEzOTkxMCwyNzg4MjMy
-ODMsMTkzODk2ODkwNSw2Mjk3MjU5NjksLTEzNTk3OTI3ODQsLT
-IwNjU2MjYzNTMsLTE3MTg4OTc3OTUsNzI0NjY3MzczLDExNTk0
-MzMyMTksNjM5NzY5NzY3LDMzMTU1ODY5Nl19
+eyJoaXN0b3J5IjpbLTEzMjA3NTA2MSwtMTk5MTc0OTY0OSwyMD
+EwNzkwMDYzLDQwNDM4NTg4MiwxNzI4NTUzMzM0LC0xNTM5MTM5
+OTEwLDI3ODgyMzI4MywxOTM4OTY4OTA1LDYyOTcyNTk2OSwtMT
+M1OTc5Mjc4NCwtMjA2NTYyNjM1MywtMTcxODg5Nzc5NSw3MjQ2
+NjczNzMsMTE1OTQzMzIxOSw2Mzk3Njk3NjcsMzMxNTU4Njk2XX
+0=
 -->
