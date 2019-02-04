@@ -25,6 +25,8 @@
 
 ### Class Imbalances
 
+
+
 If we build a model on an imbalanced dataset, the model may predict the majority call all the time (which could lead to high acuracy - misleading). 
 
 #### Method 1: Oversampling 
@@ -52,7 +54,8 @@ Note: Each approach comes at a cost (e.g. classifying more of minority class cou
 </p>
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzODk2ODkwNSw2Mjk3MjU5NjksLTEzNT
-k3OTI3ODQsLTIwNjU2MjYzNTMsLTE3MTg4OTc3OTUsNzI0NjY3
-MzczLDExNTk0MzMyMTksNjM5NzY5NzY3LDMzMTU1ODY5Nl19
+eyJoaXN0b3J5IjpbMTAzNDc0MDEzMywxOTM4OTY4OTA1LDYyOT
+cyNTk2OSwtMTM1OTc5Mjc4NCwtMjA2NTYyNjM1MywtMTcxODg5
+Nzc5NSw3MjQ2NjczNzMsMTE1OTQzMzIxOSw2Mzk3Njk3NjcsMz
+MxNTU4Njk2XX0=
 -->
