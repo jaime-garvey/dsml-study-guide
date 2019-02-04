@@ -5,6 +5,7 @@
 * [Overview](#overview)
 * [Regression](#regression)
 * [Classification](#classification)
+	* [Classification Algorithms](#classification-Algorithms)
 
 # Overview
 
@@ -107,11 +108,11 @@ Note: Each approach comes at a cost (e.g. classifying more of minority class cou
 
 Note: If these methods don't work, see Anomaly Detection Algorithm. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1Mjc4NDI4OSwxMjk4MTU0MTMzLDc0OD
-U2OTQ1NywxMjM0MzMxNjE1LDExMDI0MzMyMTEsLTExMDEyOTU4
-NDYsLTE4ODE3MzAyODksODIzMjc5NDk3LC0xOTkxNzQ5NjQ5LD
-IwMTA3OTAwNjMsNDA0Mzg1ODgyLDE3Mjg1NTMzMzQsLTE1Mzkx
-Mzk5MTAsMjc4ODIzMjgzLDE5Mzg5Njg5MDUsNjI5NzI1OTY5LC
-0xMzU5NzkyNzg0LC0yMDY1NjI2MzUzLC0xNzE4ODk3Nzk1LDcy
-NDY2NzM3M119
+eyJoaXN0b3J5IjpbNDIxNDA1OTQ4LC0zNTI3ODQyODksMTI5OD
+E1NDEzMyw3NDg1Njk0NTcsMTIzNDMzMTYxNSwxMTAyNDMzMjEx
+LC0xMTAxMjk1ODQ2LC0xODgxNzMwMjg5LDgyMzI3OTQ5NywtMT
+k5MTc0OTY0OSwyMDEwNzkwMDYzLDQwNDM4NTg4MiwxNzI4NTUz
+MzM0LC0xNTM5MTM5OTEwLDI3ODgyMzI4MywxOTM4OTY4OTA1LD
+YyOTcyNTk2OSwtMTM1OTc5Mjc4NCwtMjA2NTYyNjM1MywtMTcx
+ODg5Nzc5NV19
 -->
