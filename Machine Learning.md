@@ -18,8 +18,6 @@
 |Unsupervised    | -unlabed data   |
 |Semi-Supervised |                 |
   
-## Theory
-
 ## Regression versus Classification
 
 
@@ -97,10 +95,10 @@ Note: Each approach comes at a cost (e.g. classifying more of minority class cou
 
 Note: If these methods don't work, see Anomaly Detection Algorithm. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDEyOTU4NDYsLTE4ODE3MzAyODksOD
-IzMjc5NDk3LC0xOTkxNzQ5NjQ5LDIwMTA3OTAwNjMsNDA0Mzg1
-ODgyLDE3Mjg1NTMzMzQsLTE1MzkxMzk5MTAsMjc4ODIzMjgzLD
-E5Mzg5Njg5MDUsNjI5NzI1OTY5LC0xMzU5NzkyNzg0LC0yMDY1
-NjI2MzUzLC0xNzE4ODk3Nzk1LDcyNDY2NzM3MywxMTU5NDMzMj
-E5LDYzOTc2OTc2NywzMzE1NTg2OTZdfQ==
+eyJoaXN0b3J5IjpbMTEwMjQzMzIxMSwtMTEwMTI5NTg0NiwtMT
+g4MTczMDI4OSw4MjMyNzk0OTcsLTE5OTE3NDk2NDksMjAxMDc5
+MDA2Myw0MDQzODU4ODIsMTcyODU1MzMzNCwtMTUzOTEzOTkxMC
+wyNzg4MjMyODMsMTkzODk2ODkwNSw2Mjk3MjU5NjksLTEzNTk3
+OTI3ODQsLTIwNjU2MjYzNTMsLTE3MTg4OTc3OTUsNzI0NjY3Mz
+czLDExNTk0MzMyMTksNjM5NzY5NzY3LDMzMTU1ODY5Nl19
 -->
