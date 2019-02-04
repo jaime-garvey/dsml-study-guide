@@ -52,10 +52,11 @@
 
 Pruning - take off nodes to generalize/prevent overfitting and improve performance
 
-#### Variations
-1. Ensemble - using multiple trees
-	a. Bagging (Bootstrap Aggregating) - take randomly sampled subsets of training set (with replacement); Find different splits for each tree; predicts class that was choosen the most
+#### Variations/Methods
+Ensemble - using multiple trees
+1. Bagging (Bootstrap Aggregating) - take randomly sampled subsets of training set (with replacement); Find different splits for each tree; predicts class that was choosen the most
 2. Random Forests - using bagging but choose sqrt(n_features); then finds best split amoung those features; predicts class with majority vote (but can use weighted vote)
+3. 
 
 </p>
 </details>
@@ -92,10 +93,10 @@ Note: Each approach comes at a cost (e.g. classifying more of minority class cou
 
 Note: If these methods don't work, see Anomaly Detection Algorithm. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODE3MzAyODksODIzMjc5NDk3LC0xOT
-kxNzQ5NjQ5LDIwMTA3OTAwNjMsNDA0Mzg1ODgyLDE3Mjg1NTMz
-MzQsLTE1MzkxMzk5MTAsMjc4ODIzMjgzLDE5Mzg5Njg5MDUsNj
-I5NzI1OTY5LC0xMzU5NzkyNzg0LC0yMDY1NjI2MzUzLC0xNzE4
-ODk3Nzk1LDcyNDY2NzM3MywxMTU5NDMzMjE5LDYzOTc2OTc2Ny
-wzMzE1NTg2OTZdfQ==
+eyJoaXN0b3J5IjpbMTUwMzM2MzQyMCwtMTg4MTczMDI4OSw4Mj
+MyNzk0OTcsLTE5OTE3NDk2NDksMjAxMDc5MDA2Myw0MDQzODU4
+ODIsMTcyODU1MzMzNCwtMTUzOTEzOTkxMCwyNzg4MjMyODMsMT
+kzODk2ODkwNSw2Mjk3MjU5NjksLTEzNTk3OTI3ODQsLTIwNjU2
+MjYzNTMsLTE3MTg4OTc3OTUsNzI0NjY3MzczLDExNTk0MzMyMT
+ksNjM5NzY5NzY3LDMzMTU1ODY5Nl19
 -->
