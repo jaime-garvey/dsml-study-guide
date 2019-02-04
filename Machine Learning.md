@@ -30,9 +30,10 @@
 
 ## Classification Algorithms
 
-### Decision Trees
+### Classification & Regression Trees (CART) or Decision Trees
 (Use If-Then-Else logic to classify)
 * Look at every feature and decide which to split up
+* For numerical data, each leaf node is a predicted value
 
 
 
@@ -68,8 +69,8 @@ Note: Each approach comes at a cost (e.g. classifying more of minority class cou
 
 Note: If these methods don't work, see Anomaly Detection Algorithm. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzkxMzk5MTAsMjc4ODIzMjgzLDE5Mz
-g5Njg5MDUsNjI5NzI1OTY5LC0xMzU5NzkyNzg0LC0yMDY1NjI2
-MzUzLC0xNzE4ODk3Nzk1LDcyNDY2NzM3MywxMTU5NDMzMjE5LD
-YzOTc2OTc2NywzMzE1NTg2OTZdfQ==
+eyJoaXN0b3J5IjpbMjAzMjI4NDQ1MCwtMTUzOTEzOTkxMCwyNz
+g4MjMyODMsMTkzODk2ODkwNSw2Mjk3MjU5NjksLTEzNTk3OTI3
+ODQsLTIwNjU2MjYzNTMsLTE3MTg4OTc3OTUsNzI0NjY3MzczLD
+ExNTk0MzMyMTksNjM5NzY5NzY3LDMzMTU1ODY5Nl19
 -->
