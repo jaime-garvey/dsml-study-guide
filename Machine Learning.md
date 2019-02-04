@@ -38,8 +38,10 @@ If we build a model on an imbalanced dataset, the model may predict the majority
 Note: Each approach comes at a cost (e.g. classifying more of minority class could cause more misclassification of majority class). The best solution depends on your problem and dataset.
 
 #### Method 2: Undersampling 
+1. Random - Randomly select observations in majority class so that the size of each class is equal. 
+	a. Multiclass = 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMzIzMjU2MSwtMjA2NTYyNjM1MywtMT
+eyJoaXN0b3J5IjpbMTg4ODkxMDI4MywtMjA2NTYyNjM1MywtMT
 cxODg5Nzc5NSw3MjQ2NjczNzMsMTE1OTQzMzIxOSw2Mzk3Njk3
 NjcsMzMxNTU4Njk2XX0=
 -->
