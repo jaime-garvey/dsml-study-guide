@@ -42,7 +42,7 @@
 * Build split by split to determine best splits (find feature that gives the best separation)
 * Uses greedy algorithm - with always choose feature that has the greatedt imbalance at each split 
 * Minimize Error
-	* Split based on Information Entropy
+	* Split based on [Information Entropy](https://upload.wikimedia.org/wikipedia/commons/2/22/Binary_entropy_plot.svg)
 
 ## Class Imbalances
 (When one class that you are trying to classify is greater than the other - e.g. an unfair coin)
@@ -76,9 +76,9 @@ Note: Each approach comes at a cost (e.g. classifying more of minority class cou
 
 Note: If these methods don't work, see Anomaly Detection Algorithm. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMDc5MDA2Myw0MDQzODU4ODIsMTcyOD
-U1MzMzNCwtMTUzOTEzOTkxMCwyNzg4MjMyODMsMTkzODk2ODkw
-NSw2Mjk3MjU5NjksLTEzNTk3OTI3ODQsLTIwNjU2MjYzNTMsLT
-E3MTg4OTc3OTUsNzI0NjY3MzczLDExNTk0MzMyMTksNjM5NzY5
-NzY3LDMzMTU1ODY5Nl19
+eyJoaXN0b3J5IjpbLTE5OTE3NDk2NDksMjAxMDc5MDA2Myw0MD
+QzODU4ODIsMTcyODU1MzMzNCwtMTUzOTEzOTkxMCwyNzg4MjMy
+ODMsMTkzODk2ODkwNSw2Mjk3MjU5NjksLTEzNTk3OTI3ODQsLT
+IwNjU2MjYzNTMsLTE3MTg4OTc3OTUsNzI0NjY3MzczLDExNTk0
+MzMyMTksNjM5NzY5NzY3LDMzMTU1ODY5Nl19
 -->
