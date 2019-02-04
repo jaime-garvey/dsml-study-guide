@@ -25,9 +25,11 @@
 
 ### Class Imbalances
 
+If we build a model on an imbalanced dataset, the model may predict the majority call all the time (which could lead to high acuracy - misleading). 
 
-If we build a model on an imbalanced dataset, the model may predict the majority call all the time. 
+Methods:
+1. Oversampling - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMxOTQxMjMzLDExNTk0MzMyMTksNjM5Nz
-Y5NzY3LDMzMTU1ODY5Nl19
+eyJoaXN0b3J5IjpbLTIxNDY0ODk5MTYsMTE1OTQzMzIxOSw2Mz
+k3Njk3NjcsMzMxNTU4Njk2XX0=
 -->
