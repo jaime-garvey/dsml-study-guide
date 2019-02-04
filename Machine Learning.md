@@ -30,9 +30,11 @@ If we build a model on an imbalanced dataset, the model may predict the majority
 Methods:
 1. Oversampling - Repeat data for minority class until it is balaned with the majority class. 
 	a. Random
-	b. Synthetic Minority Oversampling Technique (SMOTE) - Similr to KNN, Create a new point in minority class that is between two points
-	c. 
+	
+	b. Synthetic Minority Oversampling Technique (SMOTE) - Similar to KNN, Create a new point in minority class that is between two nearest neighbors
+	
+	c. ADAptive SYNthetic oversampling (ADASYN)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzOTc4MDM0OCw3MjQ2NjczNzMsMTE1OT
+eyJoaXN0b3J5IjpbMjAxNzEzOTY5OCw3MjQ2NjczNzMsMTE1OT
 QzMzIxOSw2Mzk3Njk3NjcsMzMxNTU4Njk2XX0=
 -->
