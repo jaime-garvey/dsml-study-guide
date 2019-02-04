@@ -32,11 +32,12 @@
 
 ## Classification Algorithms
 
-| **Logistic Regression** |* |
+| **Algorithm** |**Description** |
 |-------------------------|----------|
+| **Logistic Regression**  |              |
 |**Naive Bayes**  |                 |
-|-------------------------|----------|
-  
+|**Linear Support Classifiers** |		|
+
 
 ### Decision Trees
 (Also called Classification & Regression Trees (CART); Use If-Then-Else logic to classify)
@@ -101,7 +102,7 @@ Note: Each approach comes at a cost (e.g. classifying more of minority class cou
 
 Note: If these methods don't work, see Anomaly Detection Algorithm. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1OTY4NjY1Nyw3NDg1Njk0NTcsMTIzND
+eyJoaXN0b3J5IjpbLTIxNTY4ODIwOSw3NDg1Njk0NTcsMTIzND
 MzMTYxNSwxMTAyNDMzMjExLC0xMTAxMjk1ODQ2LC0xODgxNzMw
 Mjg5LDgyMzI3OTQ5NywtMTk5MTc0OTY0OSwyMDEwNzkwMDYzLD
 QwNDM4NTg4MiwxNzI4NTUzMzM0LC0xNTM5MTM5OTEwLDI3ODgy
