@@ -32,7 +32,11 @@
 
 ## Classification Algorithms
 
-
+<table> 
+	<tr>
+		 <th>Name</th> 
+		 <th>Favorite Color</th> </tr> <tr> <td>Bob</td> <td>Yellow</td> </tr> <tr> <td>Michelle</td> <td>Purple</td> </tr> </table>  
+  
 
 ### Decision Trees
 (Also called Classification & Regression Trees (CART); Use If-Then-Else logic to classify)
@@ -97,11 +101,11 @@ Note: Each approach comes at a cost (e.g. classifying more of minority class cou
 
 Note: If these methods don't work, see Anomaly Detection Algorithm. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNDMzMTYxNSwxMTAyNDMzMjExLC0xMT
-AxMjk1ODQ2LC0xODgxNzMwMjg5LDgyMzI3OTQ5NywtMTk5MTc0
-OTY0OSwyMDEwNzkwMDYzLDQwNDM4NTg4MiwxNzI4NTUzMzM0LC
-0xNTM5MTM5OTEwLDI3ODgyMzI4MywxOTM4OTY4OTA1LDYyOTcy
-NTk2OSwtMTM1OTc5Mjc4NCwtMjA2NTYyNjM1MywtMTcxODg5Nz
-c5NSw3MjQ2NjczNzMsMTE1OTQzMzIxOSw2Mzk3Njk3NjcsMzMx
-NTU4Njk2XX0=
+eyJoaXN0b3J5IjpbLTI0MTMwODcsMTIzNDMzMTYxNSwxMTAyND
+MzMjExLC0xMTAxMjk1ODQ2LC0xODgxNzMwMjg5LDgyMzI3OTQ5
+NywtMTk5MTc0OTY0OSwyMDEwNzkwMDYzLDQwNDM4NTg4MiwxNz
+I4NTUzMzM0LC0xNTM5MTM5OTEwLDI3ODgyMzI4MywxOTM4OTY4
+OTA1LDYyOTcyNTk2OSwtMTM1OTc5Mjc4NCwtMjA2NTYyNjM1My
+wtMTcxODg5Nzc5NSw3MjQ2NjczNzMsMTE1OTQzMzIxOSw2Mzk3
+Njk3NjddfQ==
 -->
