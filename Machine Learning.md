@@ -39,18 +39,22 @@
 
 <details><summary>More</summary>
 <p>
-#### How to Optimize
-* Look at every feature and decide which to split up
-* Build split by split to determine best splits (find feature that gives the best separation)
-* Uses greedy algorithm - always choose feature that optimizes on one of the following metrics:
+#### How to Optimize <br>
+<li>Look at every feature and decide which to split up
+<li>Build split by split to determine best splits (find feature that gives the best separation)
+<li>Uses greedy algorithm - always choose feature that optimizes on one of the following metrics:
 
-Metrics for Fitting
+#### Metrics for Fitting
 1. Max Entropy Rule (for categorical)
 	a. [Information Entropy Graph](https://upload.wikimedia.org/wikipedia/commons/2/22/Binary_entropy_plot.svg)
 2. Gini Coefficient (for continuous feature)
 3. Misclassification Error - how many things you get wrong as a percentage (goal minimize)
 
 Pruning - take off nodes to generalize/prevent overfitting and improve performance
+
+#### Variations
+1. Ensemble - using multiple trees
+	2. Bagging (Bootstrap Aggregating) - Bootstrap
 
 </p>
 </details>
@@ -87,10 +91,10 @@ Note: Each approach comes at a cost (e.g. classifying more of minority class cou
 
 Note: If these methods don't work, see Anomaly Detection Algorithm. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg5Mzc2ODExLC0xOTkxNzQ5NjQ5LDIwMT
-A3OTAwNjMsNDA0Mzg1ODgyLDE3Mjg1NTMzMzQsLTE1MzkxMzk5
-MTAsMjc4ODIzMjgzLDE5Mzg5Njg5MDUsNjI5NzI1OTY5LC0xMz
-U5NzkyNzg0LC0yMDY1NjI2MzUzLC0xNzE4ODk3Nzk1LDcyNDY2
-NzM3MywxMTU5NDMzMjE5LDYzOTc2OTc2NywzMzE1NTg2OTZdfQ
-==
+eyJoaXN0b3J5IjpbLTI3Nzg3MDc1NSwtMTk5MTc0OTY0OSwyMD
+EwNzkwMDYzLDQwNDM4NTg4MiwxNzI4NTUzMzM0LC0xNTM5MTM5
+OTEwLDI3ODgyMzI4MywxOTM4OTY4OTA1LDYyOTcyNTk2OSwtMT
+M1OTc5Mjc4NCwtMjA2NTYyNjM1MywtMTcxODg5Nzc5NSw3MjQ2
+NjczNzMsMTE1OTQzMzIxOSw2Mzk3Njk3NjcsMzMxNTU4Njk2XX
+0=
 -->
