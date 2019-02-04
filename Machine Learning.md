@@ -37,6 +37,7 @@
 ### Decision Trees
 (Also called Classification & Regression Trees (CART); Use If-Then-Else logic to classify)
 * Look at every feature and decide which to split up
+* 
 
 #### How to Optimize
 * Build split by split to determine best splits (find feature that gives the best separation)
@@ -73,7 +74,7 @@ Note: Each approach comes at a cost (e.g. classifying more of minority class cou
 
 Note: If these methods don't work, see Anomaly Detection Algorithm. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTAyOTU1OTAsMTcyODU1MzMzNCwtMT
+eyJoaXN0b3J5IjpbLTE2MzI4MDEyNjIsMTcyODU1MzMzNCwtMT
 UzOTEzOTkxMCwyNzg4MjMyODMsMTkzODk2ODkwNSw2Mjk3MjU5
 NjksLTEzNTk3OTI3ODQsLTIwNjU2MjYzNTMsLTE3MTg4OTc3OT
 UsNzI0NjY3MzczLDExNTk0MzMyMTksNjM5NzY5NzY3LDMzMTU1
