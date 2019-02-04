@@ -39,11 +39,12 @@ Note: Each approach comes at a cost (e.g. classifying more of minority class cou
 
 #### Method 2: Undersampling 
 1. Random - Randomly select observations in majority class so that the size of each class is equal. 
-
+2. Near Miss - only sample points from the majority class necessary to distinguish between the classes
+3. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTk3OTI3ODQsLTIwNjU2MjYzNTMsLT
-E3MTg4OTc3OTUsNzI0NjY3MzczLDExNTk0MzMyMTksNjM5NzY5
-NzY3LDMzMTU1ODY5Nl19
+eyJoaXN0b3J5IjpbMjUzOTAyOTQzLC0xMzU5NzkyNzg0LC0yMD
+Y1NjI2MzUzLC0xNzE4ODk3Nzk1LDcyNDY2NzM3MywxMTU5NDMz
+MjE5LDYzOTc2OTc2NywzMzE1NTg2OTZdfQ==
 -->
