@@ -38,17 +38,21 @@ If we build a model on an imbalanced dataset, the model may predict the majority
 
 Note: Each approach comes at a cost (e.g. classifying more of minority class could cause more misclassification of majority class). The best solution depends on your problem and dataset.
 
-,
+</p>
+</details>
 
 #### Method 2: Undersampling 
+
+<details><summary>Approaches</summary>
+<p>
 1. **Random** - Randomly select observations in majority class so that the size of each class is equal. 
 2. **Near Miss** - only sample points from the majority class necessary to distinguish between the classes
 3. **NearMiss-1** select samples from the majority class for which the average distance of the N _closest_ samples of a minority class is smallest.
 
-
+</p>
+</details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzQ3ODAzMDIsNjI5NzI1OTY5LC0xMz
-U5NzkyNzg0LC0yMDY1NjI2MzUzLC0xNzE4ODk3Nzk1LDcyNDY2
-NzM3MywxMTU5NDMzMjE5LDYzOTc2OTc2NywzMzE1NTg2OTZdfQ
-==
+eyJoaXN0b3J5IjpbMTkzODk2ODkwNSw2Mjk3MjU5NjksLTEzNT
+k3OTI3ODQsLTIwNjU2MjYzNTMsLTE3MTg4OTc3OTUsNzI0NjY3
+MzczLDExNTk0MzMyMTksNjM5NzY5NzY3LDMzMTU1ODY5Nl19
 -->
