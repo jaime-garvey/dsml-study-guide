@@ -32,15 +32,15 @@
 
 ## Classification Algorithms
 
-| **Algorithm** |**Description** |
-|-------------------------|----------|
-| **Logistic Regression**  |              |
-|**Naive Bayes**  |                 |
-|**Linear Support Classifiers** |		|
-|**K-Nearest Neighbors** |		|
-|**Decision Trees** |		|
-|**Random Forests** |		|
-|**Support Vector Machine** |		|
+| **Algorithm** 				|**Description** |
+|-------------------------------|----------------|
+| **Logistic Regression**       |                |
+|**Naive Bayes** 			    |                |
+|**Linear Support Classifiers** |				 |
+|**K-Nearest Neighbors**        |				 |
+|**Decision Trees**             |				 |
+|**Random Forests**             |				 |
+|**Support Vector Machine**     |				 |
 
 
 
@@ -107,11 +107,11 @@ Note: Each approach comes at a cost (e.g. classifying more of minority class cou
 
 Note: If these methods don't work, see Anomaly Detection Algorithm. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5ODE1NDEzMyw3NDg1Njk0NTcsMTIzND
-MzMTYxNSwxMTAyNDMzMjExLC0xMTAxMjk1ODQ2LC0xODgxNzMw
-Mjg5LDgyMzI3OTQ5NywtMTk5MTc0OTY0OSwyMDEwNzkwMDYzLD
-QwNDM4NTg4MiwxNzI4NTUzMzM0LC0xNTM5MTM5OTEwLDI3ODgy
-MzI4MywxOTM4OTY4OTA1LDYyOTcyNTk2OSwtMTM1OTc5Mjc4NC
-wtMjA2NTYyNjM1MywtMTcxODg5Nzc5NSw3MjQ2NjczNzMsMTE1
-OTQzMzIxOV19
+eyJoaXN0b3J5IjpbLTM1Mjc4NDI4OSwxMjk4MTU0MTMzLDc0OD
+U2OTQ1NywxMjM0MzMxNjE1LDExMDI0MzMyMTEsLTExMDEyOTU4
+NDYsLTE4ODE3MzAyODksODIzMjc5NDk3LC0xOTkxNzQ5NjQ5LD
+IwMTA3OTAwNjMsNDA0Mzg1ODgyLDE3Mjg1NTMzMzQsLTE1Mzkx
+Mzk5MTAsMjc4ODIzMjgzLDE5Mzg5Njg5MDUsNjI5NzI1OTY5LC
+0xMzU5NzkyNzg0LC0yMDY1NjI2MzUzLC0xNzE4ODk3Nzk1LDcy
+NDY2NzM3M119
 -->
