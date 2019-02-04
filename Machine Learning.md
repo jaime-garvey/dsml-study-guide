@@ -4,7 +4,7 @@
 # Table of Contents
 * [Overview](#overview)
 * [Theory](#theory)
-* [Algorithms](#algorithms)
+* [Regression](#regression)
 * [Classification](#classification)
 
 ## Overview
@@ -24,10 +24,12 @@
 ### Regression versus Classification
 
 
-## Algorithms
+## Regression
 
 
 ## Classification
+
+###
 
 ### Class Imbalances
 (When one class that you are trying to classify is greater than the other - e.g. an unfair coin)
@@ -61,8 +63,8 @@ Note: Each approach comes at a cost (e.g. classifying more of minority class cou
 
 Note: If these methods don't work, see Anomaly Detection Algorithm. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc4ODIzMjgzLDE5Mzg5Njg5MDUsNjI5Nz
-I1OTY5LC0xMzU5NzkyNzg0LC0yMDY1NjI2MzUzLC0xNzE4ODk3
-Nzk1LDcyNDY2NzM3MywxMTU5NDMzMjE5LDYzOTc2OTc2NywzMz
-E1NTg2OTZdfQ==
+eyJoaXN0b3J5IjpbMTcxNzA5MDM0OSwyNzg4MjMyODMsMTkzOD
+k2ODkwNSw2Mjk3MjU5NjksLTEzNTk3OTI3ODQsLTIwNjU2MjYz
+NTMsLTE3MTg4OTc3OTUsNzI0NjY3MzczLDExNTk0MzMyMTksNj
+M5NzY5NzY3LDMzMTU1ODY5Nl19
 -->
