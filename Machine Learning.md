@@ -44,7 +44,7 @@
 * Build split by split to determine best splits (find feature that gives the best separation)
 * Uses greedy algorithm - with always choose feature that has the greatedt imbalance at each split 
 * Minimize Error
-	* Split based on [Information Entropy](https://upload.wikimedia.org/wikipedia/commons/2/22/Binary_entropy_plot.svg)
+	* Split based on Max Entropy Rule; [Information Entropy](https://upload.wikimedia.org/wikipedia/commons/2/22/Binary_entropy_plot.svg)
 
 </p>
 </details>
@@ -81,7 +81,7 @@ Note: Each approach comes at a cost (e.g. classifying more of minority class cou
 
 Note: If these methods don't work, see Anomaly Detection Algorithm. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjA3NTA2MSwtMTk5MTc0OTY0OSwyMD
+eyJoaXN0b3J5IjpbMTQ0MTc1NTUxMSwtMTk5MTc0OTY0OSwyMD
 EwNzkwMDYzLDQwNDM4NTg4MiwxNzI4NTUzMzM0LC0xNTM5MTM5
 OTEwLDI3ODgyMzI4MywxOTM4OTY4OTA1LDYyOTcyNTk2OSwtMT
 M1OTc5Mjc4NCwtMjA2NTYyNjM1MywtMTcxODg5Nzc5NSw3MjQ2
