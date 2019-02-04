@@ -24,8 +24,7 @@
 ## Classification
 
 ### Class Imbalances
-
-
+(When one class that you are trying to classify is greater than the other - e.g. an unfair coin)
 
 If we build a model on an imbalanced dataset, the model may predict the majority call all the time (which could lead to high acuracy - misleading). 
 
@@ -53,9 +52,11 @@ Note: Each approach comes at a cost (e.g. classifying more of minority class cou
 
 </p>
 </details>
+
+Note: If these methods don't work, see Anomaly Detection Algorithm. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNDc0MDEzMywxOTM4OTY4OTA1LDYyOT
-cyNTk2OSwtMTM1OTc5Mjc4NCwtMjA2NTYyNjM1MywtMTcxODg5
-Nzc5NSw3MjQ2NjczNzMsMTE1OTQzMzIxOSw2Mzk3Njk3NjcsMz
-MxNTU4Njk2XX0=
+eyJoaXN0b3J5IjpbNDI3MjkyOTA3LDE5Mzg5Njg5MDUsNjI5Nz
+I1OTY5LC0xMzU5NzkyNzg0LC0yMDY1NjI2MzUzLC0xNzE4ODk3
+Nzk1LDcyNDY2NzM3MywxMTU5NDMzMjE5LDYzOTc2OTc2NywzMz
+E1NTg2OTZdfQ==
 -->
