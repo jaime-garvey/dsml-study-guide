@@ -42,9 +42,9 @@
 #### How to Optimize
 * Look at every feature and decide which to split up
 * Build split by split to determine best splits (find feature that gives the best separation)
-* Uses greedy algorithm - with always choose feature that has the greatest imbalance at each split 
+* Uses greedy algorithm - always choose feature that optimizes on one of the following metrics:
 
-Methods for Fitting
+Metrics for Fitting
 1. Max Entropy Rule (for categorical)
 	a. [Information Entropy Graph](https://upload.wikimedia.org/wikipedia/commons/2/22/Binary_entropy_plot.svg)
 2. Gini Coefficient (for continuous feature)
@@ -86,9 +86,10 @@ Note: Each approach comes at a cost (e.g. classifying more of minority class cou
 
 Note: If these methods don't work, see Anomaly Detection Algorithm. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NTgwMTgsLTE5OTE3NDk2NDksMjAxMD
-c5MDA2Myw0MDQzODU4ODIsMTcyODU1MzMzNCwtMTUzOTEzOTkx
-MCwyNzg4MjMyODMsMTkzODk2ODkwNSw2Mjk3MjU5NjksLTEzNT
-k3OTI3ODQsLTIwNjU2MjYzNTMsLTE3MTg4OTc3OTUsNzI0NjY3
-MzczLDExNTk0MzMyMTksNjM5NzY5NzY3LDMzMTU1ODY5Nl19
+eyJoaXN0b3J5IjpbLTIwNjkxMDcxOTYsLTE5OTE3NDk2NDksMj
+AxMDc5MDA2Myw0MDQzODU4ODIsMTcyODU1MzMzNCwtMTUzOTEz
+OTkxMCwyNzg4MjMyODMsMTkzODk2ODkwNSw2Mjk3MjU5NjksLT
+EzNTk3OTI3ODQsLTIwNjU2MjYzNTMsLTE3MTg4OTc3OTUsNzI0
+NjY3MzczLDExNTk0MzMyMTksNjM5NzY5NzY3LDMzMTU1ODY5Nl
+19
 -->
