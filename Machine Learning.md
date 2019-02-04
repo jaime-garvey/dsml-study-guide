@@ -49,7 +49,8 @@ Metrics for Fitting
 	a. [Information Entropy Graph](https://upload.wikimedia.org/wikipedia/commons/2/22/Binary_entropy_plot.svg)
 2. Gini Coefficient (for continuous feature)
 3. Misclassification Error - how many things you get wrong as a percentage (goal minimize)
-	* Prune - take off nodes to generalize/prevent overfitting and improve performance
+
+Pruning - take off nodes to generalize/prevent overfitting and improve performance
 
 </p>
 </details>
@@ -86,10 +87,10 @@ Note: Each approach comes at a cost (e.g. classifying more of minority class cou
 
 Note: If these methods don't work, see Anomaly Detection Algorithm. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjkxMDcxOTYsLTE5OTE3NDk2NDksMj
-AxMDc5MDA2Myw0MDQzODU4ODIsMTcyODU1MzMzNCwtMTUzOTEz
-OTkxMCwyNzg4MjMyODMsMTkzODk2ODkwNSw2Mjk3MjU5NjksLT
-EzNTk3OTI3ODQsLTIwNjU2MjYzNTMsLTE3MTg4OTc3OTUsNzI0
-NjY3MzczLDExNTk0MzMyMTksNjM5NzY5NzY3LDMzMTU1ODY5Nl
-19
+eyJoaXN0b3J5IjpbNTg5Mzc2ODExLC0xOTkxNzQ5NjQ5LDIwMT
+A3OTAwNjMsNDA0Mzg1ODgyLDE3Mjg1NTMzMzQsLTE1MzkxMzk5
+MTAsMjc4ODIzMjgzLDE5Mzg5Njg5MDUsNjI5NzI1OTY5LC0xMz
+U5NzkyNzg0LC0yMDY1NjI2MzUzLC0xNzE4ODk3Nzk1LDcyNDY2
+NzM3MywxMTU5NDMzMjE5LDYzOTc2OTc2NywzMzE1NTg2OTZdfQ
+==
 -->
