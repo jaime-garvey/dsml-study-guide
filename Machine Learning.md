@@ -32,10 +32,7 @@
 
 ## Classification Algorithms
 
-<table> 
-	<tr>
-		 <th>Name</th> 
-		 <th>Favorite Color</th> </tr> <tr> <td>Bob</td> <td>Yellow</td> </tr> <tr> <td>Michelle</td> <td>Purple</td> </tr> </table>  
+
   
 
 ### Decision Trees
@@ -101,11 +98,11 @@ Note: Each approach comes at a cost (e.g. classifying more of minority class cou
 
 Note: If these methods don't work, see Anomaly Detection Algorithm. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MTMwODcsMTIzNDMzMTYxNSwxMTAyND
-MzMjExLC0xMTAxMjk1ODQ2LC0xODgxNzMwMjg5LDgyMzI3OTQ5
-NywtMTk5MTc0OTY0OSwyMDEwNzkwMDYzLDQwNDM4NTg4MiwxNz
-I4NTUzMzM0LC0xNTM5MTM5OTEwLDI3ODgyMzI4MywxOTM4OTY4
-OTA1LDYyOTcyNTk2OSwtMTM1OTc5Mjc4NCwtMjA2NTYyNjM1My
-wtMTcxODg5Nzc5NSw3MjQ2NjczNzMsMTE1OTQzMzIxOSw2Mzk3
-Njk3NjddfQ==
+eyJoaXN0b3J5IjpbNzQ4NTY5NDU3LDEyMzQzMzE2MTUsMTEwMj
+QzMzIxMSwtMTEwMTI5NTg0NiwtMTg4MTczMDI4OSw4MjMyNzk0
+OTcsLTE5OTE3NDk2NDksMjAxMDc5MDA2Myw0MDQzODU4ODIsMT
+cyODU1MzMzNCwtMTUzOTEzOTkxMCwyNzg4MjMyODMsMTkzODk2
+ODkwNSw2Mjk3MjU5NjksLTEzNTk3OTI3ODQsLTIwNjU2MjYzNT
+MsLTE3MTg4OTc3OTUsNzI0NjY3MzczLDExNTk0MzMyMTksNjM5
+NzY5NzY3XX0=
 -->
