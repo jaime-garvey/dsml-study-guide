@@ -39,7 +39,7 @@
 * Look at every feature and decide which to split up
 
 #### How to Optimize
-* Build split by split to determine best splits
+* Build split by split to determine best splits (find feature that gives the best separation)
 
 ## Class Imbalances
 (When one class that you are trying to classify is greater than the other - e.g. an unfair coin)
@@ -73,8 +73,9 @@ Note: Each approach comes at a cost (e.g. classifying more of minority class cou
 
 Note: If these methods don't work, see Anomaly Detection Algorithm. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyODU1MzMzNCwtMTUzOTEzOTkxMCwyNz
-g4MjMyODMsMTkzODk2ODkwNSw2Mjk3MjU5NjksLTEzNTk3OTI3
-ODQsLTIwNjU2MjYzNTMsLTE3MTg4OTc3OTUsNzI0NjY3MzczLD
-ExNTk0MzMyMTksNjM5NzY5NzY3LDMzMTU1ODY5Nl19
+eyJoaXN0b3J5IjpbLTE2OTAyOTU1OTAsMTcyODU1MzMzNCwtMT
+UzOTEzOTkxMCwyNzg4MjMyODMsMTkzODk2ODkwNSw2Mjk3MjU5
+NjksLTEzNTk3OTI3ODQsLTIwNjU2MjYzNTMsLTE3MTg4OTc3OT
+UsNzI0NjY3MzczLDExNTk0MzMyMTksNjM5NzY5NzY3LDMzMTU1
+ODY5Nl19
 -->
