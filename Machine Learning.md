@@ -43,8 +43,11 @@
 * Look at every feature and decide which to split up
 * Build split by split to determine best splits (find feature that gives the best separation)
 * Uses greedy algorithm - with always choose feature that has the greatedt imbalance at each split 
-* Methods for Fitting
-	1. Max Entropy Rule; [Information Entropy](https://upload.wikimedia.org/wikipedia/commons/2/22/Binary_entropy_plot.svg)
+
+Methods for Fitting
+1. Max Entropy Rule (for categorical)[Information Entropy](https://upload.wikimedia.org/wikipedia/commons/2/22/Binary_entropy_plot.svg)
+2. Gini Coefficient (for continuous feature)
+3. Misclassification Error - how many things you get wrong as a percentage (goal minimize)
 	* Prune - take off nodes to generalize/prevent overfitting and improve performance
 
 </p>
@@ -82,7 +85,7 @@ Note: Each approach comes at a cost (e.g. classifying more of minority class cou
 
 Note: If these methods don't work, see Anomaly Detection Algorithm. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNTM1NjMzMiwtMTk5MTc0OTY0OSwyMD
+eyJoaXN0b3J5IjpbMTkzNTE3OTk0NCwtMTk5MTc0OTY0OSwyMD
 EwNzkwMDYzLDQwNDM4NTg4MiwxNzI4NTUzMzM0LC0xNTM5MTM5
 OTEwLDI3ODgyMzI4MywxOTM4OTY4OTA1LDYyOTcyNTk2OSwtMT
 M1OTc5Mjc4NCwtMjA2NTYyNjM1MywtMTcxODg5Nzc5NSw3MjQ2
