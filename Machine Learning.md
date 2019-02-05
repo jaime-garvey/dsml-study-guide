@@ -121,17 +121,19 @@ Note: If these methods don't work, see Anomaly Detection Algorithm.
 1. **Bootstrapping** - sampling technique; Out of the 𝑛 samples in our dataset, 𝑘k samples are chosen **with replacement**.
 	a. Without bootstapping, we may fail to generalize median of distribution (goal is to decrease variance in distribution of data) 
 	b. As 𝑛 increases,  bootstraping will select approximately 2/3 unique samples (make sure model isn't biased to true sample)
-2. **Aggregating** - 
+2. **Aggregating** 
+
+**Note:** an ensemble of decision trees is called a Random Forest.
 
 </p>
 </details>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY2NTY3MTExLDQyMTQwNTk0OCwtMzUyNz
-g0Mjg5LDEyOTgxNTQxMzMsNzQ4NTY5NDU3LDEyMzQzMzE2MTUs
-MTEwMjQzMzIxMSwtMTEwMTI5NTg0NiwtMTg4MTczMDI4OSw4Mj
-MyNzk0OTcsLTE5OTE3NDk2NDksMjAxMDc5MDA2Myw0MDQzODU4
-ODIsMTcyODU1MzMzNCwtMTUzOTEzOTkxMCwyNzg4MjMyODMsMT
-kzODk2ODkwNSw2Mjk3MjU5NjksLTEzNTk3OTI3ODQsLTIwNjU2
-MjYzNTNdfQ==
+eyJoaXN0b3J5IjpbMTU0MzYyMzA5Miw0MjE0MDU5NDgsLTM1Mj
+c4NDI4OSwxMjk4MTU0MTMzLDc0ODU2OTQ1NywxMjM0MzMxNjE1
+LDExMDI0MzMyMTEsLTExMDEyOTU4NDYsLTE4ODE3MzAyODksOD
+IzMjc5NDk3LC0xOTkxNzQ5NjQ5LDIwMTA3OTAwNjMsNDA0Mzg1
+ODgyLDE3Mjg1NTMzMzQsLTE1MzkxMzk5MTAsMjc4ODIzMjgzLD
+E5Mzg5Njg5MDUsNjI5NzI1OTY5LC0xMzU5NzkyNzg0LC0yMDY1
+NjI2MzUzXX0=
 -->
