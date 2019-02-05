@@ -111,7 +111,7 @@ Note: If these methods don't work, see Anomaly Detection Algorithm.
 
 # Ensemble Methods
 
-Ensemble methods use multiple models to improve performance.
+Ensemble methods use multiple models to improve performance. (Use for suspected high variance/overfitting or want a performance boost)
 
 **Pros:**
 
@@ -174,11 +174,11 @@ Ensemble methods use multiple models to improve performance.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NTI0MDc0OCwtMjA2MDYwOTA2NSwxNz
-M0ODUyMjEwLC0xMzE1MjAxNzA0LDExNDY3NjMwODIsLTEzNzE5
-Njk5MzYsODM5MTEwNDUsNDIxNDA1OTQ4LC0zNTI3ODQyODksMT
-I5ODE1NDEzMyw3NDg1Njk0NTcsMTIzNDMzMTYxNSwxMTAyNDMz
-MjExLC0xMTAxMjk1ODQ2LC0xODgxNzMwMjg5LDgyMzI3OTQ5Ny
-wtMTk5MTc0OTY0OSwyMDEwNzkwMDYzLDQwNDM4NTg4MiwxNzI4
-NTUzMzM0XX0=
+eyJoaXN0b3J5IjpbLTYzNjY4ODYxOSwtMjQ1MjQwNzQ4LC0yMD
+YwNjA5MDY1LDE3MzQ4NTIyMTAsLTEzMTUyMDE3MDQsMTE0Njc2
+MzA4MiwtMTM3MTk2OTkzNiw4MzkxMTA0NSw0MjE0MDU5NDgsLT
+M1Mjc4NDI4OSwxMjk4MTU0MTMzLDc0ODU2OTQ1NywxMjM0MzMx
+NjE1LDExMDI0MzMyMTEsLTExMDEyOTU4NDYsLTE4ODE3MzAyOD
+ksODIzMjc5NDk3LC0xOTkxNzQ5NjQ5LDIwMTA3OTAwNjMsNDA0
+Mzg1ODgyXX0=
 -->
