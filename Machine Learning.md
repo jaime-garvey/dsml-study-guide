@@ -113,13 +113,14 @@ Note: If these methods don't work, see Anomaly Detection Algorithm.
 
 ## Bagging
 
-**Bootstrap aggregating**, or  **bagging**, is a type of machine learning algorithm that is designed to improve the accuracy and stability of the model.
+**Bootstrap aggregating**, or  **bagging**, is a type of machine learning algorithm that is designed to improve the accuracy and stability of the model. [Diagram](https://www.oreilly.com/library/view/python-machine-learning/9781783555130/graphics/3547_07_06.jpg)
 
-1. Bootstrapping - sampling technique; Out of the 𝑛n samples in our dataset, 𝑘k samples are chosen **with replacement**.
+1. Bootstrapping - sampling technique; Out of the 𝑛 samples in our dataset, 𝑘k samples are chosen **with replacement**.
 	a. Without bootstapping, we may fail to generalize median of distribution (goal is to decrease variance in distribution of data) 
+	b. As 𝑛 increases,  bootstraping will select approximately 2/3 of th
 2. Aggregating - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMTgwNjE0OSw0MjE0MDU5NDgsLTM1Mj
+eyJoaXN0b3J5IjpbLTE4MTk3ODU2MCw0MjE0MDU5NDgsLTM1Mj
 c4NDI4OSwxMjk4MTU0MTMzLDc0ODU2OTQ1NywxMjM0MzMxNjE1
 LDExMDI0MzMyMTEsLTExMDEyOTU4NDYsLTE4ODE3MzAyODksOD
 IzMjc5NDk3LC0xOTkxNzQ5NjQ5LDIwMTA3OTAwNjMsNDA0Mzg1
