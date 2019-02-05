@@ -137,7 +137,7 @@ Note: If these methods don't work, see Anomaly Detection Algorithm.
 </p>
 </details>
 
-## Boosting
+## Stacking
 
 <details><summary>More</summary>
 <p>
@@ -146,11 +146,11 @@ Note: If these methods don't work, see Anomaly Detection Algorithm.
 </p>
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMzI2MDkzOSw4MzkxMTA0NSw0MjE0MD
-U5NDgsLTM1Mjc4NDI4OSwxMjk4MTU0MTMzLDc0ODU2OTQ1Nywx
-MjM0MzMxNjE1LDExMDI0MzMyMTEsLTExMDEyOTU4NDYsLTE4OD
-E3MzAyODksODIzMjc5NDk3LC0xOTkxNzQ5NjQ5LDIwMTA3OTAw
-NjMsNDA0Mzg1ODgyLDE3Mjg1NTMzMzQsLTE1MzkxMzk5MTAsMj
-c4ODIzMjgzLDE5Mzg5Njg5MDUsNjI5NzI1OTY5LC0xMzU5Nzky
-Nzg0XX0=
+eyJoaXN0b3J5IjpbLTEzNzE5Njk5MzYsODM5MTEwNDUsNDIxND
+A1OTQ4LC0zNTI3ODQyODksMTI5ODE1NDEzMyw3NDg1Njk0NTcs
+MTIzNDMzMTYxNSwxMTAyNDMzMjExLC0xMTAxMjk1ODQ2LC0xOD
+gxNzMwMjg5LDgyMzI3OTQ5NywtMTk5MTc0OTY0OSwyMDEwNzkw
+MDYzLDQwNDM4NTg4MiwxNzI4NTUzMzM0LC0xNTM5MTM5OTEwLD
+I3ODgyMzI4MywxOTM4OTY4OTA1LDYyOTcyNTk2OSwtMTM1OTc5
+Mjc4NF19
 -->
