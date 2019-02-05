@@ -111,6 +111,8 @@ Note: If these methods don't work, see Anomaly Detection Algorithm.
 
 # Ensemble Methods
 
+Ensemble methods use multiple models to improve performance.
+
 **Pros:**
 
 -   Reduces variance
@@ -172,7 +174,7 @@ Note: If these methods don't work, see Anomaly Detection Algorithm.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MjI3MzEyMSwtMjA2MDYwOTA2NSwxNz
+eyJoaXN0b3J5IjpbLTI0NTI0MDc0OCwtMjA2MDYwOTA2NSwxNz
 M0ODUyMjEwLC0xMzE1MjAxNzA0LDExNDY3NjMwODIsLTEzNzE5
 Njk5MzYsODM5MTEwNDUsNDIxNDA1OTQ4LC0zNTI3ODQyODksMT
 I5ODE1NDEzMyw3NDg1Njk0NTcsMTIzNDMzMTYxNSwxMTAyNDMz
