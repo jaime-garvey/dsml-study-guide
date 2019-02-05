@@ -123,17 +123,17 @@ Note: If these methods don't work, see Anomaly Detection Algorithm.
 	b. As 𝑛 increases,  bootstraping will select approximately 2/3 unique samples (make sure model isn't biased to true sample)
 2. **Aggregating** 
 
-**Note:** an ensemble of decision trees is called a Random Forest.
+**Note:** an ensemble of decision trees is called a Random Forest. Decision trees are prone to high variance and overfitting.
 
 </p>
 </details>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MzYyMzA5Miw0MjE0MDU5NDgsLTM1Mj
-c4NDI4OSwxMjk4MTU0MTMzLDc0ODU2OTQ1NywxMjM0MzMxNjE1
-LDExMDI0MzMyMTEsLTExMDEyOTU4NDYsLTE4ODE3MzAyODksOD
-IzMjc5NDk3LC0xOTkxNzQ5NjQ5LDIwMTA3OTAwNjMsNDA0Mzg1
-ODgyLDE3Mjg1NTMzMzQsLTE1MzkxMzk5MTAsMjc4ODIzMjgzLD
-E5Mzg5Njg5MDUsNjI5NzI1OTY5LC0xMzU5NzkyNzg0LC0yMDY1
-NjI2MzUzXX0=
+eyJoaXN0b3J5IjpbODM5MTEwNDUsNDIxNDA1OTQ4LC0zNTI3OD
+QyODksMTI5ODE1NDEzMyw3NDg1Njk0NTcsMTIzNDMzMTYxNSwx
+MTAyNDMzMjExLC0xMTAxMjk1ODQ2LC0xODgxNzMwMjg5LDgyMz
+I3OTQ5NywtMTk5MTc0OTY0OSwyMDEwNzkwMDYzLDQwNDM4NTg4
+MiwxNzI4NTUzMzM0LC0xNTM5MTM5OTEwLDI3ODgyMzI4MywxOT
+M4OTY4OTA1LDYyOTcyNTk2OSwtMTM1OTc5Mjc4NCwtMjA2NTYy
+NjM1M119
 -->
