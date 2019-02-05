@@ -112,15 +112,17 @@ Note: If these methods don't work, see Anomaly Detection Algorithm.
 # Ensemble Methods
 
 ## Bagging
+
 **Bootstrap aggregating**, or  **bagging**, is a type of machine learning algorithm that is designed to improve the accuracy and stability of the model.
 
-1. Bootstrapping - sampling technique; 
+1. Bootstrapping - sampling technique; Out of the 𝑛n samples in our dataset, 𝑘k samples are chosen **with replacement**.
+2. Aggregating - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMzYyMzQxMyw0MjE0MDU5NDgsLTM1Mj
-c4NDI4OSwxMjk4MTU0MTMzLDc0ODU2OTQ1NywxMjM0MzMxNjE1
-LDExMDI0MzMyMTEsLTExMDEyOTU4NDYsLTE4ODE3MzAyODksOD
-IzMjc5NDk3LC0xOTkxNzQ5NjQ5LDIwMTA3OTAwNjMsNDA0Mzg1
-ODgyLDE3Mjg1NTMzMzQsLTE1MzkxMzk5MTAsMjc4ODIzMjgzLD
-E5Mzg5Njg5MDUsNjI5NzI1OTY5LC0xMzU5NzkyNzg0LC0yMDY1
-NjI2MzUzXX0=
+eyJoaXN0b3J5IjpbNzU5Nzk0OTk1LDQyMTQwNTk0OCwtMzUyNz
+g0Mjg5LDEyOTgxNTQxMzMsNzQ4NTY5NDU3LDEyMzQzMzE2MTUs
+MTEwMjQzMzIxMSwtMTEwMTI5NTg0NiwtMTg4MTczMDI4OSw4Mj
+MyNzk0OTcsLTE5OTE3NDk2NDksMjAxMDc5MDA2Myw0MDQzODU4
+ODIsMTcyODU1MzMzNCwtMTUzOTEzOTkxMCwyNzg4MjMyODMsMT
+kzODk2ODkwNSw2Mjk3MjU5NjksLTEzNTk3OTI3ODQsLTIwNjU2
+MjYzNTNdfQ==
 -->
