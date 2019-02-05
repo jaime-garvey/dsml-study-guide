@@ -123,6 +123,10 @@ Note: If these methods don't work, see Anomaly Detection Algorithm.
 	b. As 𝑛 increases,  bootstraping will select approximately 2/3 unique samples (make sure model isn't biased to true sample)
 2. **Aggregating** 
 	b. Aggregate of the predictions of the models (that use the different bootstapped samples)
+3. Voting Classifier
+	a. Max Voting
+	b. Average Voting - take the probabilities
+	6. Weighting Voting - assign weighs to probabilities
 
 **Note:** an ensemble of decision trees is called a Random Forest. Decision trees are prone to high variance and overfitting.
 
@@ -147,11 +151,11 @@ Note: If these methods don't work, see Anomaly Detection Algorithm.
 </p>
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0Njc2MzA4MiwtMTM3MTk2OTkzNiw4Mz
-kxMTA0NSw0MjE0MDU5NDgsLTM1Mjc4NDI4OSwxMjk4MTU0MTMz
-LDc0ODU2OTQ1NywxMjM0MzMxNjE1LDExMDI0MzMyMTEsLTExMD
-EyOTU4NDYsLTE4ODE3MzAyODksODIzMjc5NDk3LC0xOTkxNzQ5
-NjQ5LDIwMTA3OTAwNjMsNDA0Mzg1ODgyLDE3Mjg1NTMzMzQsLT
-E1MzkxMzk5MTAsMjc4ODIzMjgzLDE5Mzg5Njg5MDUsNjI5NzI1
-OTY5XX0=
+eyJoaXN0b3J5IjpbNDY2NDk2MzIzLDExNDY3NjMwODIsLTEzNz
+E5Njk5MzYsODM5MTEwNDUsNDIxNDA1OTQ4LC0zNTI3ODQyODks
+MTI5ODE1NDEzMyw3NDg1Njk0NTcsMTIzNDMzMTYxNSwxMTAyND
+MzMjExLC0xMTAxMjk1ODQ2LC0xODgxNzMwMjg5LDgyMzI3OTQ5
+NywtMTk5MTc0OTY0OSwyMDEwNzkwMDYzLDQwNDM4NTg4MiwxNz
+I4NTUzMzM0LC0xNTM5MTM5OTEwLDI3ODgyMzI4MywxOTM4OTY4
+OTA1XX0=
 -->
