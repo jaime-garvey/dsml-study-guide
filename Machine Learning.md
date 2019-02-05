@@ -113,9 +113,9 @@ Note: If these methods don't work, see Anomaly Detection Algorithm.
 
 ## Bagging
 
-**Bootstrap aggregating**, or  **bagging**, is a type of machine learning algorithm that is designed to improve the accuracy and stability of the model. [Diagram](https://www.oreilly.com/library/view/python-machine-learning/9781783555130/graphics/3547_07_06.jpg)
+**Bootstrap aggregating**, or  **bagging**, is a type of machine learning algorithm that is designed to improve the accuracy and stability of the model (reduces variance). [Diagram](https://www.oreilly.com/library/view/python-machine-learning/9781783555130/graphics/3547_07_06.jpg)
 
-<details><summary>Approaches</summary>
+<details><summary>More</summary>
 <p>
 
 1. **Bootstrapping** - sampling technique; Out of the 𝑛 samples in our dataset, 𝑘k samples are chosen **with replacement**.
@@ -128,12 +128,29 @@ Note: If these methods don't work, see Anomaly Detection Algorithm.
 </p>
 </details>
 
+## Boosting
+
+<details><summary>More</summary>
+<p>
+
+
+</p>
+</details>
+
+## Boosting
+
+<details><summary>More</summary>
+<p>
+
+
+</p>
+</details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM5MTEwNDUsNDIxNDA1OTQ4LC0zNTI3OD
-QyODksMTI5ODE1NDEzMyw3NDg1Njk0NTcsMTIzNDMzMTYxNSwx
-MTAyNDMzMjExLC0xMTAxMjk1ODQ2LC0xODgxNzMwMjg5LDgyMz
-I3OTQ5NywtMTk5MTc0OTY0OSwyMDEwNzkwMDYzLDQwNDM4NTg4
-MiwxNzI4NTUzMzM0LC0xNTM5MTM5OTEwLDI3ODgyMzI4MywxOT
-M4OTY4OTA1LDYyOTcyNTk2OSwtMTM1OTc5Mjc4NCwtMjA2NTYy
-NjM1M119
+eyJoaXN0b3J5IjpbLTIyMzI2MDkzOSw4MzkxMTA0NSw0MjE0MD
+U5NDgsLTM1Mjc4NDI4OSwxMjk4MTU0MTMzLDc0ODU2OTQ1Nywx
+MjM0MzMxNjE1LDExMDI0MzMyMTEsLTExMDEyOTU4NDYsLTE4OD
+E3MzAyODksODIzMjc5NDk3LC0xOTkxNzQ5NjQ5LDIwMTA3OTAw
+NjMsNDA0Mzg1ODgyLDE3Mjg1NTMzMzQsLTE1MzkxMzk5MTAsMj
+c4ODIzMjgzLDE5Mzg5Njg5MDUsNjI5NzI1OTY5LC0xMzU5Nzky
+Nzg0XX0=
 -->
