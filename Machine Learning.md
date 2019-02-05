@@ -127,6 +127,7 @@ Note: If these methods don't work, see Anomaly Detection Algorithm.
 	a. Max Voting - assign the class that has the largest number of predictions for each model.
 	b. Average Voting - average voting (aka soft voting) predicts the class that has the highest sum of predicted probabilities
 	c. Weighting Voting - assignings weights to each model's predicted probability to adjust its contribution to the final prediction; Sometimes add additional weight to models that are performing better to optimize metric
+		i. Tuning the Weights
 4. Prediction 
 
 **Note:** an ensemble of decision trees is called a Random Forest. Decision trees are prone to high variance and overfitting.
@@ -152,11 +153,11 @@ Note: If these methods don't work, see Anomaly Detection Algorithm.
 </p>
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAyMTkyMzE3LDE3MzQ4NTIyMTAsLTEzMT
-UyMDE3MDQsMTE0Njc2MzA4MiwtMTM3MTk2OTkzNiw4MzkxMTA0
-NSw0MjE0MDU5NDgsLTM1Mjc4NDI4OSwxMjk4MTU0MTMzLDc0OD
-U2OTQ1NywxMjM0MzMxNjE1LDExMDI0MzMyMTEsLTExMDEyOTU4
-NDYsLTE4ODE3MzAyODksODIzMjc5NDk3LC0xOTkxNzQ5NjQ5LD
-IwMTA3OTAwNjMsNDA0Mzg1ODgyLDE3Mjg1NTMzMzQsLTE1Mzkx
-Mzk5MTBdfQ==
+eyJoaXN0b3J5IjpbLTIwNjA2MDkwNjUsMTczNDg1MjIxMCwtMT
+MxNTIwMTcwNCwxMTQ2NzYzMDgyLC0xMzcxOTY5OTM2LDgzOTEx
+MDQ1LDQyMTQwNTk0OCwtMzUyNzg0Mjg5LDEyOTgxNTQxMzMsNz
+Q4NTY5NDU3LDEyMzQzMzE2MTUsMTEwMjQzMzIxMSwtMTEwMTI5
+NTg0NiwtMTg4MTczMDI4OSw4MjMyNzk0OTcsLTE5OTE3NDk2ND
+ksMjAxMDc5MDA2Myw0MDQzODU4ODIsMTcyODU1MzMzNCwtMTUz
+OTEzOTkxMF19
 -->
