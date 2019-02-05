@@ -124,7 +124,7 @@ Note: If these methods don't work, see Anomaly Detection Algorithm.
 2. **Aggregating** 
 	b. Aggregate of the predictions of the models (that use the different bootstapped samples)
 3. Voting Classifier
-	a. Max Voting - majority
+	a. Max Voting - assign the class that has the largest number of predictions for each model.
 	b. Average Voting - take the probabilities
 	c. Weighting Voting - assign weighs to probabilities
 
@@ -151,7 +151,7 @@ Note: If these methods don't work, see Anomaly Detection Algorithm.
 </p>
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzkwNDEwMTYsMTE0Njc2MzA4MiwtMT
+eyJoaXN0b3J5IjpbLTEzMTUyMDE3MDQsMTE0Njc2MzA4MiwtMT
 M3MTk2OTkzNiw4MzkxMTA0NSw0MjE0MDU5NDgsLTM1Mjc4NDI4
 OSwxMjk4MTU0MTMzLDc0ODU2OTQ1NywxMjM0MzMxNjE1LDExMD
 I0MzMyMTEsLTExMDEyOTU4NDYsLTE4ODE3MzAyODksODIzMjc5
