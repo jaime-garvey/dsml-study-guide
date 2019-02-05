@@ -109,13 +109,16 @@ Note: Each approach comes at a cost (e.g. classifying more of minority class cou
 Note: If these methods don't work, see Anomaly Detection Algorithm. 
 
 
-# Classification
+# Ensemble Methods
+
+## Bagging
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODg5ODM0ODUsNDIxNDA1OTQ4LC0zNT
-I3ODQyODksMTI5ODE1NDEzMyw3NDg1Njk0NTcsMTIzNDMzMTYx
-NSwxMTAyNDMzMjExLC0xMTAxMjk1ODQ2LC0xODgxNzMwMjg5LD
-gyMzI3OTQ5NywtMTk5MTc0OTY0OSwyMDEwNzkwMDYzLDQwNDM4
-NTg4MiwxNzI4NTUzMzM0LC0xNTM5MTM5OTEwLDI3ODgyMzI4My
-wxOTM4OTY4OTA1LDYyOTcyNTk2OSwtMTM1OTc5Mjc4NCwtMjA2
-NTYyNjM1M119
+eyJoaXN0b3J5IjpbOTAyMzY4NzU3LDQyMTQwNTk0OCwtMzUyNz
+g0Mjg5LDEyOTgxNTQxMzMsNzQ4NTY5NDU3LDEyMzQzMzE2MTUs
+MTEwMjQzMzIxMSwtMTEwMTI5NTg0NiwtMTg4MTczMDI4OSw4Mj
+MyNzk0OTcsLTE5OTE3NDk2NDksMjAxMDc5MDA2Myw0MDQzODU4
+ODIsMTcyODU1MzMzNCwtMTUzOTEzOTkxMCwyNzg4MjMyODMsMT
+kzODk2ODkwNSw2Mjk3MjU5NjksLTEzNTk3OTI3ODQsLTIwNjU2
+MjYzNTNdfQ==
 -->
