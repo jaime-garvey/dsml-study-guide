@@ -111,6 +111,17 @@ Note: If these methods don't work, see Anomaly Detection Algorithm.
 
 # Ensemble Methods
 
+**Pros:**
+
+-   Reduces variance
+-   (generally) better model performance
+
+**Cons:**
+
+-   Loss of model interpretability
+-   Possibility of high bias if data is not modeled properly
+-   Computationally expensive
+
 ## Bagging
 
 **Bootstrap aggregating**, or  **bagging**, is a type of machine learning algorithm that is designed to improve the accuracy and stability of the model (reduces variance). [Diagram](https://www.oreilly.com/library/view/python-machine-learning/9781783555130/graphics/3547_07_06.jpg)
@@ -154,12 +165,18 @@ Note: If these methods don't work, see Anomaly Detection Algorithm.
 
 </p>
 </details>
+
+
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE2MDk2NjEwLC0yMDYwNjA5MDY1LDE3Mz
-Q4NTIyMTAsLTEzMTUyMDE3MDQsMTE0Njc2MzA4MiwtMTM3MTk2
-OTkzNiw4MzkxMTA0NSw0MjE0MDU5NDgsLTM1Mjc4NDI4OSwxMj
-k4MTU0MTMzLDc0ODU2OTQ1NywxMjM0MzMxNjE1LDExMDI0MzMy
-MTEsLTExMDEyOTU4NDYsLTE4ODE3MzAyODksODIzMjc5NDk3LC
-0xOTkxNzQ5NjQ5LDIwMTA3OTAwNjMsNDA0Mzg1ODgyLDE3Mjg1
-NTMzMzRdfQ==
+eyJoaXN0b3J5IjpbLTM0MjI3MzEyMSwtMjA2MDYwOTA2NSwxNz
+M0ODUyMjEwLC0xMzE1MjAxNzA0LDExNDY3NjMwODIsLTEzNzE5
+Njk5MzYsODM5MTEwNDUsNDIxNDA1OTQ4LC0zNTI3ODQyODksMT
+I5ODE1NDEzMyw3NDg1Njk0NTcsMTIzNDMzMTYxNSwxMTAyNDMz
+MjExLC0xMTAxMjk1ODQ2LC0xODgxNzMwMjg5LDgyMzI3OTQ5Ny
+wtMTk5MTc0OTY0OSwyMDEwNzkwMDYzLDQwNDM4NTg4MiwxNzI4
+NTUzMzM0XX0=
 -->
