@@ -129,7 +129,7 @@ Note: If these methods don't work, see Anomaly Detection Algorithm.
 	c. Weighting Voting - assignings weights to each model's predicted probability to adjust its contribution to the final prediction; Sometimes add additional weight to models that are performing better to optimize metric
 		i. Tuning the Weights - 
 				- Regression  - can tune weights using OLS
-				- Classification
+				- Classification - meta-classifier (classifies classifiers), passes predictions though additional model (e.g. logistic regression)
 4. Prediction 
 
 **Note:** an ensemble of decision trees is called a Random Forest. Decision trees are prone to high variance and overfitting.
@@ -155,11 +155,11 @@ Note: If these methods don't work, see Anomaly Detection Algorithm.
 </p>
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY4MzAyNTgzLC0yMDYwNjA5MDY1LDE3Mz
-Q4NTIyMTAsLTEzMTUyMDE3MDQsMTE0Njc2MzA4MiwtMTM3MTk2
-OTkzNiw4MzkxMTA0NSw0MjE0MDU5NDgsLTM1Mjc4NDI4OSwxMj
-k4MTU0MTMzLDc0ODU2OTQ1NywxMjM0MzMxNjE1LDExMDI0MzMy
-MTEsLTExMDEyOTU4NDYsLTE4ODE3MzAyODksODIzMjc5NDk3LC
-0xOTkxNzQ5NjQ5LDIwMTA3OTAwNjMsNDA0Mzg1ODgyLDE3Mjg1
-NTMzMzRdfQ==
+eyJoaXN0b3J5IjpbLTE3ODU1NjE1NjQsLTIwNjA2MDkwNjUsMT
+czNDg1MjIxMCwtMTMxNTIwMTcwNCwxMTQ2NzYzMDgyLC0xMzcx
+OTY5OTM2LDgzOTExMDQ1LDQyMTQwNTk0OCwtMzUyNzg0Mjg5LD
+EyOTgxNTQxMzMsNzQ4NTY5NDU3LDEyMzQzMzE2MTUsMTEwMjQz
+MzIxMSwtMTEwMTI5NTg0NiwtMTg4MTczMDI4OSw4MjMyNzk0OT
+csLTE5OTE3NDk2NDksMjAxMDc5MDA2Myw0MDQzODU4ODIsMTcy
+ODU1MzMzNF19
 -->
