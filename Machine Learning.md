@@ -124,9 +124,9 @@ Note: If these methods don't work, see Anomaly Detection Algorithm.
 2. **Aggregating** 
 	b. Aggregate of the predictions of the models (that use the different bootstapped samples)
 3. Voting Classifier
-	a. Max Voting
+	a. Max Voting - majority
 	b. Average Voting - take the probabilities
-	6. Weighting Voting - assign weighs to probabilities
+	c. Weighting Voting - assign weighs to probabilities
 
 **Note:** an ensemble of decision trees is called a Random Forest. Decision trees are prone to high variance and overfitting.
 
@@ -151,11 +151,11 @@ Note: If these methods don't work, see Anomaly Detection Algorithm.
 </p>
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY2NDk2MzIzLDExNDY3NjMwODIsLTEzNz
-E5Njk5MzYsODM5MTEwNDUsNDIxNDA1OTQ4LC0zNTI3ODQyODks
-MTI5ODE1NDEzMyw3NDg1Njk0NTcsMTIzNDMzMTYxNSwxMTAyND
-MzMjExLC0xMTAxMjk1ODQ2LC0xODgxNzMwMjg5LDgyMzI3OTQ5
-NywtMTk5MTc0OTY0OSwyMDEwNzkwMDYzLDQwNDM4NTg4MiwxNz
-I4NTUzMzM0LC0xNTM5MTM5OTEwLDI3ODgyMzI4MywxOTM4OTY4
-OTA1XX0=
+eyJoaXN0b3J5IjpbLTE0MzkwNDEwMTYsMTE0Njc2MzA4MiwtMT
+M3MTk2OTkzNiw4MzkxMTA0NSw0MjE0MDU5NDgsLTM1Mjc4NDI4
+OSwxMjk4MTU0MTMzLDc0ODU2OTQ1NywxMjM0MzMxNjE1LDExMD
+I0MzMyMTEsLTExMDEyOTU4NDYsLTE4ODE3MzAyODksODIzMjc5
+NDk3LC0xOTkxNzQ5NjQ5LDIwMTA3OTAwNjMsNDA0Mzg1ODgyLD
+E3Mjg1NTMzMzQsLTE1MzkxMzk5MTAsMjc4ODIzMjgzLDE5Mzg5
+Njg5MDVdfQ==
 -->
