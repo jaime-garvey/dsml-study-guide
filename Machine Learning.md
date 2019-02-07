@@ -44,6 +44,19 @@
 |**Support Vector Machine**     |				 |
 
 
+### Naive Bayes
+<details><summary>More</summary>
+<p>
+**Binomial**  - Looking through the data you notice that certain kinds of spam emails will include your email handle (the part before the @ sign) somewhere in the subject line. You then build a feature that captures this as  **0**  if it’s not present and **1**  if it is. The algorithm will use this concept to classify emails as spam/ham and is named “Binomial” because it assumes your features are drawn from a  [binomial distribution](https://en.wikipedia.org/wiki/Binomial_distribution).
+
+**Multinomial** - Similarly as before, we notice that the more dollar signs ($) there are in an email, the more likely that email is spam. We can do this for many kinds of words, say (CASH or Lottery), but instead of labeling them 0 or 1, we actually count how many times each word appears in the email. This helps the model by giving it information, not just on whether the word was there, but also how many times the word appeared because we know that this is a signal to help our classifier. The algorithm assumes that the features are drawn from a  [multinomial distribution](https://en.wikipedia.org/wiki/Multinomial_distribution).
+
+For Gaussian, let’s assume we’re trying to classify whether a college student can dunk a basketball based only on their height.
+
+**Gaussian** - As you may recall from any intro stats class, the distribution of heights in humans is continuous and  [normally distributed](https://en.wikipedia.org/wiki/Normal_distribution)  (the normal distribution is also called a Gaussian distribution, hence the name). So the algorithm will look at the height of all of the students we polled and determine where the cut-off should be to maximize the model performance (usually accuracy) to classify dunkers vs non-dunkers.
+
+</p>
+</details>
 
 ### Decision Trees
 (Also called Classification & Regression Trees (CART); Use If-Then-Else logic to classify)
@@ -174,11 +187,11 @@ Ensemble methods use multiple models to improve performance. (Use for suspected 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNjY4ODYxOSwtMjQ1MjQwNzQ4LC0yMD
-YwNjA5MDY1LDE3MzQ4NTIyMTAsLTEzMTUyMDE3MDQsMTE0Njc2
-MzA4MiwtMTM3MTk2OTkzNiw4MzkxMTA0NSw0MjE0MDU5NDgsLT
-M1Mjc4NDI4OSwxMjk4MTU0MTMzLDc0ODU2OTQ1NywxMjM0MzMx
-NjE1LDExMDI0MzMyMTEsLTExMDEyOTU4NDYsLTE4ODE3MzAyOD
-ksODIzMjc5NDk3LC0xOTkxNzQ5NjQ5LDIwMTA3OTAwNjMsNDA0
-Mzg1ODgyXX0=
+eyJoaXN0b3J5IjpbLTE0ODcxNzcxOTksLTYzNjY4ODYxOSwtMj
+Q1MjQwNzQ4LC0yMDYwNjA5MDY1LDE3MzQ4NTIyMTAsLTEzMTUy
+MDE3MDQsMTE0Njc2MzA4MiwtMTM3MTk2OTkzNiw4MzkxMTA0NS
+w0MjE0MDU5NDgsLTM1Mjc4NDI4OSwxMjk4MTU0MTMzLDc0ODU2
+OTQ1NywxMjM0MzMxNjE1LDExMDI0MzMyMTEsLTExMDEyOTU4ND
+YsLTE4ODE3MzAyODksODIzMjc5NDk3LC0xOTkxNzQ5NjQ5LDIw
+MTA3OTAwNjNdfQ==
 -->
