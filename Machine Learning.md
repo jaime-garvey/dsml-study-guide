@@ -181,17 +181,22 @@ Ensemble methods use multiple models to improve performance. (Use for suspected 
 </p>
 </details>
 
+# Generalized Linear Models
 
+**Three Models**
+1. Linear Regression - prediction/forecasting (y ~Normal)
+2. Logistic Regression - classification (y ~ Bernoulli)
+3. Poisson Regression - count variables (y ~ Poisson exp(XB))
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODcxNzcxOTksLTYzNjY4ODYxOSwtMj
-Q1MjQwNzQ4LC0yMDYwNjA5MDY1LDE3MzQ4NTIyMTAsLTEzMTUy
-MDE3MDQsMTE0Njc2MzA4MiwtMTM3MTk2OTkzNiw4MzkxMTA0NS
-w0MjE0MDU5NDgsLTM1Mjc4NDI4OSwxMjk4MTU0MTMzLDc0ODU2
-OTQ1NywxMjM0MzMxNjE1LDExMDI0MzMyMTEsLTExMDEyOTU4ND
-YsLTE4ODE3MzAyODksODIzMjc5NDk3LC0xOTkxNzQ5NjQ5LDIw
-MTA3OTAwNjNdfQ==
+eyJoaXN0b3J5IjpbLTIxMDI1NjQ4NjAsLTE0ODcxNzcxOTksLT
+YzNjY4ODYxOSwtMjQ1MjQwNzQ4LC0yMDYwNjA5MDY1LDE3MzQ4
+NTIyMTAsLTEzMTUyMDE3MDQsMTE0Njc2MzA4MiwtMTM3MTk2OT
+kzNiw4MzkxMTA0NSw0MjE0MDU5NDgsLTM1Mjc4NDI4OSwxMjk4
+MTU0MTMzLDc0ODU2OTQ1NywxMjM0MzMxNjE1LDExMDI0MzMyMT
+EsLTExMDEyOTU4NDYsLTE4ODE3MzAyODksODIzMjc5NDk3LC0x
+OTkxNzQ5NjQ5XX0=
 -->
