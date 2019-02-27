@@ -36,8 +36,10 @@
 
 
 
-## Additional
-* 
+### Tool Suite
+* Hive - allow SQL queries to Hadoop 
+* Pig - processing library that looks like SQL
+* Sqoop - load data from SQL databases to HFDS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMTU0MTIwOSw4MTAwNjgwODRdfQ==
+eyJoaXN0b3J5IjpbLTE3NzU5MTU4MSw4MTAwNjgwODRdfQ==
 -->
