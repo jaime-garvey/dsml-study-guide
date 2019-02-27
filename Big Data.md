@@ -1,6 +1,6 @@
 
 # Big Data
-[Big Data Landscape Diagram](
+[Big Data Landscape Diagram](http://mattturck.com/wp-content/uploads/2017/05/Matt-Turck-FirstMark-2017-Big-Data-Landscape.png)
 
 
 # Tools
@@ -42,6 +42,6 @@
 * Pig - processing library that looks like SQL
 * Sqoop - load data from SQL databases to HFDS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzg3MDQ3OTUsLTE3NzU5MTU4MSw4MT
-AwNjgwODRdfQ==
+eyJoaXN0b3J5IjpbMTAwODU1Njg3OSwtMTc3NTkxNTgxLDgxMD
+A2ODA4NF19
 -->
