@@ -10,6 +10,10 @@
 
 ### Overview 
 *  platform for disributed storage and processing
+* tool for maintaining,  pipeling, and cleaning data (ETL - Extract, Transform, Load)
+* Use Case:
+	* large amounts of data
+	* 
 
 
 ### Major Components
@@ -29,6 +33,11 @@
 * Utilizes data clusters 
 * *Map*: processes data in each node and outpus to a collection stream
 * *Reduce*: Takes all outputs from Mappers and combines them into a single output
+
+
+
+## Additional
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MTEyNTc3Miw4MTAwNjgwODRdfQ==
+eyJoaXN0b3J5IjpbLTYzMTU0MTIwOSw4MTAwNjgwODRdfQ==
 -->
