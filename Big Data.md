@@ -1,5 +1,6 @@
 
 # Big Data
+[Big Data Landscape Diagram](
 
 
 # Tools
@@ -41,5 +42,6 @@
 * Pig - processing library that looks like SQL
 * Sqoop - load data from SQL databases to HFDS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzU5MTU4MSw4MTAwNjgwODRdfQ==
+eyJoaXN0b3J5IjpbLTIxMzg3MDQ3OTUsLTE3NzU5MTU4MSw4MT
+AwNjgwODRdfQ==
 -->
