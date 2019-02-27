@@ -44,9 +44,12 @@
 ### SQL
 1. Let's say you have a table (cars) which several rows (id - int, make - string, model - string, cylinders - int, horsepower - int). Write a query that gives the 3 vehicles that have the highest horsepower with at least cylinders. 
 
+### Big Data
+1. Walk through counting problem using MapReduce.
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NzI2ODkyNSwtMTg1MTYzODA2NiwtMT
-ExNjUxNTQyNl19
+eyJoaXN0b3J5IjpbMjE0MzE1NDIzMSwtMjg3MjY4OTI1LC0xOD
+UxNjM4MDY2LC0xMTE2NTE1NDI2XX0=
 -->
