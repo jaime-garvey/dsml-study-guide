@@ -4,7 +4,9 @@
 
 # Tools
 
-## Hadoop
+## Spark (Data Processing)
+
+## Hadoop (Data Storage & Processing)
 
 ### Overview 
 *  platform for disributed storage and processing
@@ -28,5 +30,5 @@
 * *Map*: processes data in each node and outpus to a collection stream
 * *Reduce*: Takes all outputs from Mappers and combines them into a single output
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEwMDY4MDg0XX0=
+eyJoaXN0b3J5IjpbLTI0MTEyNTc3Miw4MTAwNjgwODRdfQ==
 -->
