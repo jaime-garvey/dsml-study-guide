@@ -169,6 +169,11 @@ Ensemble methods use multiple models to improve performance. (Use for suspected 
 <p>
 * Takes series of weaker learners and combines them
 
+**Example:**
+f<sub>0</sub>, Data
+f<sub>1</sub>, 1/2(what we got wrong in f<sub>0</sub>) + 1/2(Data)
+f<sub>2</sub>, 1/2(what we got wrong in f<sub>0</sub>, ) + 1/2(Data)
+
 </p>
 </details>
 
@@ -192,5 +197,6 @@ Ensemble methods use multiple models to improve performance. (Use for suspected 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM3NzE0NTQwLC0yMTAyNTY0ODYwXX0=
+eyJoaXN0b3J5IjpbLTE3Mzc2NTI5NDYsNTM3NzE0NTQwLC0yMT
+AyNTY0ODYwXX0=
 -->
