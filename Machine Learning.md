@@ -172,7 +172,12 @@ Ensemble methods use multiple models to improve performance. (Use for suspected 
 **Example:**
 f<sub>0</sub>, Data
 f<sub>1</sub>, 1/2(what we got wrong in f<sub>0</sub>) + 1/2(Data)
-f<sub>2</sub>, 1/2(what we got wrong in f<sub>0</sub>, ) + 1/2(Data)
+f<sub>2</sub>, 1/2(what we got wrong in f<sub>0</sub>, f<sub>1</sub>) + 1/2(Data)
+
+Then,
+1. Chain together
+2. We can apply weights to models if we'd like to get final model
+3. When we put in input, we return prediction based on voting classifier
 
 </p>
 </details>
@@ -197,6 +202,6 @@ f<sub>2</sub>, 1/2(what we got wrong in f<sub>0</sub>, ) + 1/2(Data)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzc2NTI5NDYsNTM3NzE0NTQwLC0yMT
-AyNTY0ODYwXX0=
+eyJoaXN0b3J5IjpbLTM1MzI3MTI1Niw1Mzc3MTQ1NDAsLTIxMD
+I1NjQ4NjBdfQ==
 -->
