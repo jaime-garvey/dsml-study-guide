@@ -179,6 +179,9 @@ Then,
 2. We can apply weights to models if we'd like to get final model
 3. When we put in input, we return prediction based on voting classifier
 
+**Hyperperameters**
+* k = number of trees (if larger k, want smaller d to avoid over fitting)
+* d = max depth
 </p>
 </details>
 
@@ -202,6 +205,6 @@ Then,
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDI5Mjg3ODAsNTM3NzE0NTQwLC0yMT
-AyNTY0ODYwXX0=
+eyJoaXN0b3J5IjpbMTU5NDAxNDcxNCw1Mzc3MTQ1NDAsLTIxMD
+I1NjQ4NjBdfQ==
 -->
