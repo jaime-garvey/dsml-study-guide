@@ -171,7 +171,7 @@ Ensemble methods use multiple models to improve performance. (Use for suspected 
 
 **Example:**
 f<sub>0</sub>, Data
-f<sub>1</sub>, 1/2(what we got wrong in f<sub>0</sub>) + 1/2(Data)
+f<sub>1</sub>, 1/2(what we got wrong in f<sub>0</sub>) + $\frac{1}/{2}$(Data)
 f<sub>2</sub>, 1/2(what we got wrong in f<sub>0</sub>, f<sub>1</sub>) + 1/2(Data)
 
 Then,
@@ -202,6 +202,6 @@ Then,
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MzI3MTI1Niw1Mzc3MTQ1NDAsLTIxMD
-I1NjQ4NjBdfQ==
+eyJoaXN0b3J5IjpbMTQwMDM5NDAsNTM3NzE0NTQwLC0yMTAyNT
+Y0ODYwXX0=
 -->
